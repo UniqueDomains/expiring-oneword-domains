@@ -1,13 +1,13 @@
 
-# List of Expiring One Word Domain Names (42,332)
+# List of Expiring One Word Domain Names (42,365)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/expiring-oneword-domains.svg?style=flat)]() [![42,332 Expiring one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-42%2C332-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/expiring-oneword-domains.svg?style=flat)]() [![42,365 Expiring one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-42%2C365-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
 We constantly sweep the web to catalog the highest potential Expiring one-word domains still available to buy.
 
 This dataset contains an extract of 1,000 Expiring one word domains. 
 
-If you need more, access the complete database of **42,332 [Expiring one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=description.top)** with demand, SEO & analysis, and get them at the lowest price.
+If you need more, access the complete database of **42,365 [Expiring one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=description.top)** with demand, SEO & analysis, and get them at the lowest price.
 
 -----------
 
@@ -16,7 +16,7 @@ If you need more, access the complete database of **42,332 [Expiring one word do
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/blob/main/all.json"><b>⬇️ Download JSON</b></a> • 
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=description.fulldatabase"><b>🪐 Full Database</b></a> • 
-    <a href="https://unique.domains/api"><b>💻 API</b></a>
+    <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain                                                                                                                                                                                           | Status   | Attract. | Demand | Length | Created          | Expires          | Actions                                                                                                                                                                                   |
@@ -57,7 +57,7 @@ If you need more, access the complete database of **42,332 [Expiring one word do
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/blob/main/all.json"><b>⬇️ Download JSON</b></a> • 
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=description.fulldatabase"><b>🪐 Full Database</b></a> • 
-    <a href="https://unique.domains/api"><b>💻 API</b></a>
+    <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 -----------
@@ -79,8 +79,8 @@ If you need more, access the complete database of **42,332 [Expiring one word do
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 18,030       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 42,332       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| Expired  | 18,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 42,365       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
 | All      | 2,690,174    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
@@ -96,13 +96,13 @@ If you need more, access the complete database of **42,332 [Expiring one word do
 | .AGENCY        | 2,241        | [Github](https://github.com/UniqueDomains/agency-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=table.link)        |
 | .AI            | 53,531       | [Github](https://github.com/UniqueDomains/ai-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ai-oneword-domains&utm_content=table.link)            |
 | .AIRFORCE      | 2,807        | [Github](https://github.com/UniqueDomains/airforce-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.link)      |
-| .APARTMENTS    | 2,681        | [Github](https://github.com/UniqueDomains/apartments-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=apartments-oneword-domains&utm_content=table.link)    |
-| .APP           | 1,433        | [Github](https://github.com/UniqueDomains/app-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=app-oneword-domains&utm_content=table.link)           |
-| .ARCHI         | 1            | [Github](https://github.com/UniqueDomains/archi-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.link)         |
-| .ARMY          | 1            | [Github](https://github.com/UniqueDomains/army-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=army-oneword-domains&utm_content=table.link)          |
-| .ART           | 1            | [Github](https://github.com/UniqueDomains/art-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=art-oneword-domains&utm_content=table.link)           |
-| .ASIA          | 0            | [Github](https://github.com/UniqueDomains/asia-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=asia-oneword-domains&utm_content=table.link)          |
-| .ASSOCIATES    | 0            | [Github](https://github.com/UniqueDomains/associates-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=associates-oneword-domains&utm_content=table.link)    |
+| .APARTMENTS    | 2,769        | [Github](https://github.com/UniqueDomains/apartments-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=apartments-oneword-domains&utm_content=table.link)    |
+| .APP           | 56,429       | [Github](https://github.com/UniqueDomains/app-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=app-oneword-domains&utm_content=table.link)           |
+| .ARCHI         | 2,766        | [Github](https://github.com/UniqueDomains/archi-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.link)         |
+| .ARMY          | 2,728        | [Github](https://github.com/UniqueDomains/army-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=army-oneword-domains&utm_content=table.link)          |
+| .ART           | 2,572        | [Github](https://github.com/UniqueDomains/art-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=art-oneword-domains&utm_content=table.link)           |
+| .ASIA          | 2,411        | [Github](https://github.com/UniqueDomains/asia-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=asia-oneword-domains&utm_content=table.link)          |
+| .ASSOCIATES    | 2,754        | [Github](https://github.com/UniqueDomains/associates-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=associates-oneword-domains&utm_content=table.link)    |
 | .AT            | 3,552        | [Github](https://github.com/UniqueDomains/at-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=at-oneword-domains&utm_content=table.link)            |
 | .ATTORNEY      | 1            | [Github](https://github.com/UniqueDomains/attorney-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=attorney-oneword-domains&utm_content=table.link)      |
 | .AUCTION       | 0            | [Github](https://github.com/UniqueDomains/auction-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=auction-oneword-domains&utm_content=table.link)       |
