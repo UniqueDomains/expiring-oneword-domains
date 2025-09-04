@@ -1,6 +1,5 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
 f636761a-d3a5-4003-8c51-36654988d23a,a.live,expiring,84,27,5,"Name.com, Inc.",21/09/2023 19:44,21/09/2025 19:44
-3ada1614-fd1b-42ca-ba29-d6adcb2c27e6,aaa.me,expiring,70,92,3,"GoDaddy.com, LLC",04/08/2008 10:07,04/08/2025 10:07
 feff7853-0af8-4131-80e2-c52ead439526,aaa.org,expiring,70,92,3,"GoDaddy.com, LLC",25/07/1995 04:00,24/07/2025 04:00
 de7c5715-0334-4cef-8957-b8043ab97f19,AAAA.site,expiring,68,84,4,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.",15/07/2015 16:00,15/07/2025 23:59
 0e3f64ee-6726-4665-b2ac-6b8329ad47e4,AAD.co,expiring,82,80,3,1API GmbH,20/07/2010 18:00,19/07/2025 23:59
@@ -42,8 +41,7 @@ b4870074-0770-46a0-98fb-df981582f3eb,abides.co,expiring,70,20,6,Sav.com LLC,16/0
 d6af669b-5fd6-4f25-be21-f0d852737eac,abiding.uk,expiring,106,5,7,Christopher Clark t/a Brand Selection - Domain Names For Sale,29/09/2017 12:15,29/09/2025 12:15
 3c66be60-fc7c-4418-bcbe-c344d64b4fa4,abigail.co,expiring,54,76,7,Hello Internet Corp.,20/07/2010 18:01,19/07/2025 23:59
 9aa1ceef-3410-4cf4-a042-5d5d0a4699f9,abigail.org,expiring,54,76,7,InterNetX GmbH,29/07/2002 21:36,29/07/2025 21:36
-880af81c-85a8-4a56-adbf-595ea56b7dc0,ability.io,expiring,92,80,7,Porkbun LLC,16/07/2017 10:12,16/07/2025 10:12
-39761290-103f-4457-a97d-723d19363749,ability.it,expiring,92,80,7,,23/06/2000 00:00,14/07/2025 00:00
+7b8e0256-1f65-4665-88c7-39e42838676f,ability.co,expiring,92,80,7,"GoDaddy.com, LLC",04/10/2021 17:00,04/10/2025 17:00
 6465439f-36a6-4643-93a1-126678fabfa9,ability.so,expiring,92,80,7,Dynadot LLC,30/07/2022 14:50,30/07/2025 14:50
 c2b99601-2872-42d9-84db-bd7e3fdf771b,abit.digital,expiring,66,16,5,"Sav.com, LLC",03/10/2024 19:43,03/10/2025 19:43
 2669e3bc-6909-43a9-8c01-efbc7a667b4c,abit.pro,expiring,66,16,5,"Regional Network Information Center, JSC dba RU-CENTER",09/09/2015 15:12,09/09/2025 15:12
@@ -999,3 +997,5 @@ a89bc5f7-ddb5-424c-bf7d-49b7d228c6e2,agape.hair,expiring,94,27,5,"Spaceship, Inc
 9bce588c-e781-41ff-ada0-0a47baa03bf7,agape.motorcycles,expiring,94,27,5,"Spaceship, Inc.",18/09/2024 08:33,18/09/2025 23:59
 bd7e1ecb-a6a3-43fc-81fc-5c781ed450ab,agape.nyc,expiring,94,27,5,"GoDaddy.com, LLC",04/09/2023 18:18,04/09/2025 18:18
 ea498d4f-8103-4ea6-a6dd-609892cd4dfe,agape.quest,expiring,94,27,5,"Spaceship, Inc.",18/09/2024 18:21,18/09/2025 23:59
+c958a36a-75ca-4f6c-98ed-c7edaa6ee836,agape.rest,expiring,94,27,5,"Spaceship, Inc.",18/09/2024 08:33,18/09/2025 08:33
+a7e30eed-2d1e-4855-97d8-0d017bb8a4f8,agape.school,expiring,94,27,5,PDR Ltd. d/b/a PublicDomainRegistry.com,31/08/2016 00:19,31/08/2025 00:19

@@ -22,7 +22,6 @@ If you want to search & filters the complete database of [Expiring one word doma
 | Domain            | Status   | Attract. | Demand | Length | Registrar                                                 | Created          | Expires          |
 | ----------------- | -------- | -------- | ------ | ------ | --------------------------------------------------------- | ---------------- | ---------------- |
 | a.live            | expiring | 84       | 27%    | 5      | Name.com, Inc.                                            | 21/09/2023 19:44 | 21/09/2025 19:44 |
-| aaa.me            | expiring | 70       | 92%    | 3      | GoDaddy.com, LLC                                          | 04/08/2008 10:07 | 04/08/2025 10:07 |
 | aaa.org           | expiring | 70       | 92%    | 3      | GoDaddy.com, LLC                                          | 25/07/1995 04:00 | 24/07/2025 04:00 |
 | AAAA.site         | expiring | 68       | 84%    | 4      | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.       | 15/07/2015 16:00 | 15/07/2025 23:59 |
 | AAD.co            | expiring | 82       | 80%    | 3      | 1API GmbH                                                 | 20/07/2010 18:00 | 19/07/2025 23:59 |
@@ -51,6 +50,7 @@ If you want to search & filters the complete database of [Expiring one word doma
 | Abdul.pro         | expiring | 58       | 80%    | 5      | Spaceship, Inc.                                           | 20/07/2024 07:03 | 20/07/2025 07:03 |
 | Abdullah.us       | expiring | 54       | 80%    | 8      | 1API GmbH                                                 | 02/08/2012 16:28 | 01/08/2025 23:59 |
 | Abe.co            | expiring | 62       | 92%    | 3      | Nom-iq Ltd. dba COM LAUDE                                 | 21/07/2010 21:32 | 20/07/2025 23:59 |
+| abed.dev          | expiring | 60       | 80%    | 4      | GoDaddy.com, LLC                                          | 09/07/2020 08:57 | 09/07/2025 08:57 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
