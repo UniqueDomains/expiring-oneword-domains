@@ -49,8 +49,8 @@ If you want to search & filters the complete database of [Expiring one word doma
 | aba.co         | expiring | 72       | 88%    | 3      | GoDaddy.com, LLC                                          | 21/07/2010 21:49 | 20/07/2025 23:59 |
 | aba.online     | expiring | 72       | 88%    | 3      | Go Daddy, LLC                                             | 31/07/2022 01:05 | 31/07/2025 23:59 |
 | abandoned.bar  | expiring | 58       | 10%    | 9      | Super Registry Inc.                                       | 25/09/2021 19:07 | 25/09/2025 23:59 |
+| abandoned.me   | expiring | 58       | 10%    | 9      | CommuniGal Communication Ltd.                             | 24/12/2024 15:15 | 24/12/2025 15:15 |
 | abandoned.name | expiring | 58       | 10%    | 9      | Regional Network Information Center, JSC dba RU-CENTER    | 01/09/2010 11:54 | 01/09/2025 11:55 |
-| abasic.net     | expiring | 54       | 2%     | 6      | RegistryGate GmbH                                         | 01/09/2000 07:19 | 01/09/2025 07:19 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [Expiring one word doma
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
