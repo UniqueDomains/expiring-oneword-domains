@@ -48,9 +48,9 @@ If you want to search & filters the complete database of [Expiring one word doma
 | aba.app        | expiring | 72       | 88%    | 3      | Global Domains International, Inc. DBA DomainCostClub.com | 21/07/2023 13:30 | 21/07/2025 13:30 |
 | aba.co         | expiring | 72       | 88%    | 3      | GoDaddy.com, LLC                                          | 21/07/2010 21:49 | 20/07/2025 23:59 |
 | aba.online     | expiring | 72       | 88%    | 3      | Go Daddy, LLC                                             | 31/07/2022 01:05 | 31/07/2025 23:59 |
-| abandoned.bar  | expiring | 58       | 10%    | 9      | Super Registry Inc.                                       | 25/09/2021 19:07 | 25/09/2025 23:59 |
-| abandoned.me   | expiring | 58       | 10%    | 9      | CommuniGal Communication Ltd.                             | 24/12/2024 15:15 | 24/12/2025 15:15 |
-| abandoned.name | expiring | 58       | 10%    | 9      | Regional Network Information Center, JSC dba RU-CENTER    | 01/09/2010 11:54 | 01/09/2025 11:55 |
+| abandoned.ai   | expiring | 58       | 7%     | 9      | Name.com, Inc.                                            | 13/12/2023 05:51 | 13/12/2025 05:51 |
+| abandoned.bar  | expiring | 58       | 7%     | 9      | Super Registry Inc.                                       | 25/09/2021 19:07 | 25/09/2025 23:59 |
+| abandoned.ca   | expiring | 58       | 7%     | 9      | Go Daddy Domains Canada, Inc                              | 03/01/2007 20:44 | 03/01/2026 05:00 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
