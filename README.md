@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Expiring one word doma
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain          | Status   | Attract. | Demand | Length | Registrar                                                 | Created          | Expires          |
-| --------------- | -------- | -------- | ------ | ------ | --------------------------------------------------------- | ---------------- | ---------------- |
-| aaa.education   | expiring | 70       | 38%    | 3      | GoDaddy.com, LLC                                          | 16/09/2019 03:05 | 16/09/2025 03:05 |
-| aaa.insure      | expiring | 70       | 38%    | 3      | GoDaddy.com, LLC                                          | 27/09/2019 20:53 | 27/09/2025 20:53 |
-| aaa.jetzt       | expiring | 70       | 38%    | 3      | Cronon GmbH                                               | 22/09/2020 15:24 | 22/09/2025 15:24 |
-| aaa.monster     | expiring | 70       | 38%    | 3      | NameSilo, LLC                                             | 03/10/2024 04:12 | 03/10/2025 23:59 |
-| aaa.online      | expiring | 70       | 38%    | 3      | Go Daddy, LLC                                             | 20/09/2024 19:11 | 20/09/2025 23:59 |
-| aaa.plus        | expiring | 70       | 38%    | 3      | Xiamen ChinaSource Internet Service Co., Ltd              | 28/09/2016 04:04 | 28/09/2025 04:04 |
-| aaa.vote        | expiring | 70       | 38%    | 3      | DNSPod, Inc.                                              | 09/09/2024 09:01 | 09/09/2025 09:01 |
-| aaa.world       | expiring | 70       | 38%    | 3      | GoDaddy.com, LLC                                          | 15/09/2022 05:28 | 15/09/2025 05:28 |
-| AAAA.site       | expiring | 68       | 84%    | 4      | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.       | 15/07/2015 16:00 | 15/07/2025 23:59 |
-| AAD.co          | expiring | 82       | 80%    | 3      | 1API GmbH                                                 | 20/07/2010 18:00 | 19/07/2025 23:59 |
-| AAD.me          | expiring | 82       | 80%    | 3      | Infomaniak Network SA                                     | 17/07/2008 21:27 | 17/07/2025 21:27 |
-| AAD.zone        | expiring | 82       | 80%    | 3      | GoDaddy.com, LLC                                          | 24/07/2024 16:15 | 24/07/2025 16:15 |
-| aah.me          | expiring | 114      | 92%    | 3      | GoDaddy.com, LLC                                          | 17/07/2008 18:31 | 17/07/2025 18:31 |
-| aardvark.co     | expiring | 64       | 92%    | 8      | Domainbox Limited                                         | 20/07/2010 18:01 | 19/07/2025 23:59 |
-| aargh.com       | expiring | 56       | 76%    | 5      | IONOS SE                                                  | 28/07/1995 04:00 | 27/07/2025 04:00 |
-| aaron.app       | expiring | 88       | 32%    | 5      | Squarespace Domains II LLC.                               | 27/07/2022 09:27 | 27/07/2025 09:27 |
-| aaron.business  | expiring | 88       | 32%    | 5      | Sav.com, LLC - 12                                         | 04/09/2024 17:00 | 04/09/2025 17:00 |
-| aaron.gives     | expiring | 88       | 32%    | 5      | Squarespace Domains LLC                                   | 20/09/2024 05:59 | 20/09/2025 05:59 |
-| aaron.green     | expiring | 88       | 32%    | 5      | Name.com, Inc.                                            | 02/10/2016 11:33 | 02/10/2025 11:33 |
-| aaron.media     | expiring | 88       | 32%    | 5      | GoDaddy.com, LLC                                          | 14/09/2014 13:06 | 14/09/2025 13:06 |
-| aaron.solar     | expiring | 88       | 32%    | 5      | Porkbun LLC                                               | 26/09/2016 11:02 | 26/09/2025 11:02 |
-| aaron.systems   | expiring | 88       | 32%    | 5      | Blacknight Internet Solutions Ltd.                        | 12/09/2014 11:37 | 12/09/2025 11:37 |
-| aarp.co         | expiring | 58       | 76%    | 4      | GoDaddy.com, LLC                                          | 21/07/2010 21:39 | 20/07/2025 23:59 |
-| aba.app         | expiring | 72       | 88%    | 3      | Global Domains International, Inc. DBA DomainCostClub.com | 21/07/2023 13:30 | 21/07/2025 13:30 |
-| aba.co          | expiring | 72       | 88%    | 3      | GoDaddy.com, LLC                                          | 21/07/2010 21:49 | 20/07/2025 23:59 |
-| aba.online      | expiring | 72       | 88%    | 3      | Go Daddy, LLC                                             | 31/07/2022 01:05 | 31/07/2025 23:59 |
-| abandoned.ai    | expiring | 58       | 7%     | 9      | Name.com, Inc.                                            | 13/12/2023 05:51 | 13/12/2025 05:51 |
-| abandoned.bar   | expiring | 58       | 7%     | 9      | Super Registry Inc.                                       | 25/09/2021 19:07 | 25/09/2025 23:59 |
-| abandoned.ca    | expiring | 58       | 7%     | 9      | Go Daddy Domains Canada, Inc                              | 03/01/2007 20:44 | 03/01/2026 05:00 |
-| abandoned.group | expiring | 58       | 7%     | 9      | CommuniGal Communication Ltd.                             | 09/12/2024 17:00 | 09/12/2025 17:00 |
+| Domain        | Status   | Attract. | Demand | Length | Registrar                                                          | Created          | Expires          |
+| ------------- | -------- | -------- | ------ | ------ | ------------------------------------------------------------------ | ---------------- | ---------------- |
+| aaa.baby      | expiring | 70       | 35%    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            | 16/12/2024 06:54 | 16/12/2025 23:59 |
+| aaa.contact   | expiring | 70       | 35%    | 3      | Go Australia Domains, LLC                                          | 09/12/2020 16:00 | 09/12/2025 16:00 |
+| aaa.loans     | expiring | 70       | 35%    | 3      | Epik LLC                                                           | 28/12/2015 14:04 | 28/12/2025 14:04 |
+| aaa.onl       | expiring | 70       | 35%    | 3      | NameCheap, Inc.                                                    | 04/01/2024 21:02 | 04/01/2026 21:02 |
+| AAAA.site     | expiring | 68       | 84%    | 4      | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.                | 15/07/2015 16:00 | 15/07/2025 23:59 |
+| AAD.co        | expiring | 82       | 80%    | 3      | 1API GmbH                                                          | 20/07/2010 18:00 | 19/07/2025 23:59 |
+| AAD.me        | expiring | 82       | 80%    | 3      | Infomaniak Network SA                                              | 17/07/2008 21:27 | 17/07/2025 21:27 |
+| AAD.zone      | expiring | 82       | 80%    | 3      | GoDaddy.com, LLC                                                   | 24/07/2024 16:15 | 24/07/2025 16:15 |
+| aah.me        | expiring | 114      | 92%    | 3      | GoDaddy.com, LLC                                                   | 17/07/2008 18:31 | 17/07/2025 18:31 |
+| aardvark.co   | expiring | 64       | 92%    | 8      | Domainbox Limited                                                  | 20/07/2010 18:01 | 19/07/2025 23:59 |
+| aargh.com     | expiring | 56       | 76%    | 5      | IONOS SE                                                           | 28/07/1995 04:00 | 27/07/2025 04:00 |
+| aaron.academy | expiring | 88       | 28%    | 5      | Name.com, Inc.                                                     | 23/12/2024 14:49 | 23/12/2025 14:49 |
+| aaron.agency  | expiring | 88       | 28%    | 5      | GoDaddy.com, LLC                                                   | 31/12/2022 03:29 | 31/12/2025 03:29 |
+| aaron.cc      | expiring | 88       | 28%    | 5      | INWX GmbH                                                          | 06/01/2020 12:22 | 06/01/2026 12:22 |
+| aaron.cool    | expiring | 88       | 28%    | 5      | Porkbun LLC                                                        | 11/12/2023 04:54 | 11/12/2025 04:54 |
+| aaron.doctor  | expiring | 88       | 28%    | 5      | Porkbun LLC                                                        | 15/12/2022 02:20 | 15/12/2025 02:20 |
+| aaron.gallery | expiring | 88       | 28%    | 5      | Porkbun LLC                                                        | 27/12/2020 01:28 | 27/12/2025 01:28 |
+| aaron.gold    | expiring | 88       | 28%    | 5      | GoDaddy.com, LLC                                                   | 23/12/2021 12:47 | 23/12/2025 12:47 |
+| aaron.id      | expiring | 88       | 28%    | 5      | PT Jagat Informasi Solusi (int)                                    | 25/12/2020 11:42 | 25/12/2025 23:59 |
+| aaron.it      | expiring | 88       | 28%    | 5      |                                                                    | 05/12/2008 10:37 | 09/12/2025 00:00 |
+| aaron.now     | expiring | 88       | 28%    | 5      | Spaceship, Inc.                                                    | 02/01/2025 03:06 | 02/01/2026 03:06 |
+| aaron.school  | expiring | 88       | 28%    | 5      | Porkbun LLC                                                        | 30/12/2021 05:26 | 30/12/2025 05:26 |
+| aaron.team    | expiring | 88       | 28%    | 5      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság | 18/12/2024 14:41 | 18/12/2025 14:41 |
+| aaron.wedding | expiring | 88       | 28%    | 5      | Porkbun                                                            | 15/12/2022 01:53 | 15/12/2025 01:53 |
+| aarp.co       | expiring | 58       | 76%    | 4      | GoDaddy.com, LLC                                                   | 21/07/2010 21:39 | 20/07/2025 23:59 |
+| aba.app       | expiring | 72       | 88%    | 3      | Global Domains International, Inc. DBA DomainCostClub.com          | 21/07/2023 13:30 | 21/07/2025 13:30 |
+| aba.co        | expiring | 72       | 88%    | 3      | GoDaddy.com, LLC                                                   | 21/07/2010 21:49 | 20/07/2025 23:59 |
+| aba.online    | expiring | 72       | 88%    | 3      | Go Daddy, LLC                                                      | 31/07/2022 01:05 | 31/07/2025 23:59 |
+| abandoned.ai  | expiring | 58       | 7%     | 9      | Name.com, Inc.                                                     | 13/12/2023 05:51 | 13/12/2025 05:51 |
+| abandoned.bar | expiring | 58       | 7%     | 9      | Super Registry Inc.                                                | 25/09/2021 19:07 | 25/09/2025 23:59 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [Expiring one word doma
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
