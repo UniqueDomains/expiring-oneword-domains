@@ -388,7 +388,9 @@ df18d514-4bab-46ee-bce5-880b8fcb822f,accountants.app,expiring,46,40,11,Dynadot L
 87ff700a-e7e0-4664-a684-b11f54230b12,accountants.us,expiring,46,40,11,"GoDaddy.com, LLC",09/07/2011 18:00,08/07/2025 23:59
 d23884a3-3c6f-4436-8569-2ae1420ac68d,accountbook.co,expiring,62,72,12,Sav.com LLC,23/07/2024 01:16,23/07/2025 01:16
 d0673ce9-efb2-4d22-a28b-e068f6d70905,accountbook.it,expiring,62,72,12,,24/07/2013 07:42,24/07/2025 00:00
-4ae1252a-bb27-4028-aed6-a5626069dbaa,accounted.net,expiring,46,88,9,"GoDaddy.com, LLC",17/07/2003 18:27,17/07/2025 18:27
+e73dbc72-54b8-4546-a412-0c8a2075f52c,accounted.blog,expiring,46,3,9,Automattic Inc.,09/01/2025 13:43,09/01/2026 23:59
+ca0d0582-5028-45f0-b383-5ee74b0a3b62,accounted.id,expiring,46,3,9,PANDI Registrar,31/12/2023 14:36,31/12/2025 23:59
+267cd499-0eb2-4bc0-afc2-f82d14e4ce7d,accounted.io,expiring,46,3,9,"GoDaddy.com, LLC",28/12/2016 16:11,28/12/2025 16:11
 0f2e24c3-70fd-4ef7-b70f-166a3ec56414,accountmanager.app,expiring,62,76,15,"NameSilo, LLC",26/07/2019 01:12,26/07/2025 01:12
 c623751a-3f26-4cbb-92c6-b39ec4823235,accountmanager.net,expiring,62,76,15,"GoDaddy.com, LLC",19/07/2001 10:36,19/07/2025 10:36
 42d00553-efc7-4ff4-91ea-173e8755a2b6,accountmanager.org,expiring,62,76,15,"GoDaddy.com, LLC",16/07/2004 19:00,16/07/2025 19:00
@@ -464,6 +466,7 @@ c43e6945-d66c-4a81-a52f-ac94c79b00b8,acinous.com,expiring,50,1,7,"TurnCommerce, 
 f21b4fea-55bb-42ef-9146-91ff7cfa4830,ACK.app,expiring,98,88,3,"Sav.com, LLC",24/07/2019 09:33,24/07/2025 09:33
 859e5a0b-ef36-431b-b7c5-d0de23c17f52,ACK.co,expiring,98,88,3,1API GmbH,20/07/2010 18:23,19/07/2025 23:59
 276e9332-04d2-49c1-9c8e-44001c481fd5,ACK.zone,expiring,98,88,3,"Name.com, Inc.",29/07/2016 23:02,29/07/2025 23:02
+6eaa2b9d-a111-44ce-b3a1-2e7f014928ad,acknowledge.media,expiring,74,6,11,"GoDaddy.com, LLC",12/01/2016 12:21,12/01/2026 12:21
 44f98c35-04bd-4b1c-adf9-abd631e533a4,ACL.co,expiring,58,76,3,Hello Internet Corp.,20/07/2010 18:00,19/07/2025 23:59
 3c6e8cad-3263-44e4-b487-f70037c7735e,ACL.me,expiring,58,76,3,"GoDaddy.com, LLC",20/07/2008 23:48,20/07/2025 23:48
 ff61acb4-1941-487f-89d0-66c994fc550e,acme.co,expiring,76,92,4,"eNom, LLC",21/07/2010 21:46,20/07/2025 23:59
@@ -532,7 +535,7 @@ c4164168-f2e9-4bed-9b2a-468bf79732f8,acronym.world,expiring,94,12,7,"GoDaddy.com
 67d6b593-da37-40a9-9fdb-d6a09428cccc,across.life,expiring,90,13,6,"Chengdu West Dimension Digital Technology Co., Ltd.",23/12/2018 07:52,23/12/2025 07:52
 d1e04f98-6fc3-48b8-9def-5e9a2bcaef24,across.tech,expiring,90,13,6,"Xiamen ChinaSource Internet Service Co., Ltd",28/12/2019 08:56,28/12/2025 23:59
 cf066f99-8907-4aa4-b124-8fc30499b74f,across.works,expiring,90,13,6,"GoDaddy.com, LLC",06/01/2025 20:45,06/01/2026 20:45
-8bd502b0-38a9-4347-b56b-7e6ace002843,acrosstheboard.xyz,expiring,72,4,16,"Go Daddy, LLC",31/12/2021 11:01,31/12/2025 23:59
+8bd502b0-38a9-4347-b56b-7e6ace002843,acrosstheboard.xyz,expiring,72,3,16,"Go Daddy, LLC",31/12/2021 11:01,31/12/2025 23:59
 29e02560-9c0b-4d25-a770-90e36edf08d7,acrossthepond.net,expiring,46,80,15,PDR Ltd. d/b/a PublicDomainRegistry.com,26/07/1999 19:36,26/07/2025 19:36
 214c8164-8a7b-4dfc-983e-30efecd4d2e0,acrylic.site,expiring,80,80,7,"Spaceship, Inc.",05/08/2024 07:16,05/08/2025 23:59
 fc79c48d-28a4-4067-8592-b00d1f67529c,act.agency,expiring,86,32,3,"Key-Systems, LLC",02/01/2020 11:40,02/01/2026 11:40
@@ -996,6 +999,3 @@ b1bdd3ba-525e-4507-acd9-b9e1fe516563,adventure.uk,expiring,94,36,9,Darren Cunnin
 2187c1f1-e855-4abe-aeee-113887e3787c,adventuregame.pro,expiring,62,80,14,"GoDaddy.com, LLC",12/07/2024 01:01,12/07/2025 01:01
 76f2ea81-8111-4e37-a409-155e1548bdd3,adventurer.me,expiring,68,80,10,"GoDaddy.com, LLC",23/07/2008 22:33,23/07/2025 22:33
 0b3aa2a8-3090-4aad-9727-b209a3d7a044,adventurers.online,expiring,46,28,11,"Sav.com, LLC- 4",27/07/2024 08:25,27/07/2025 23:59
-72d4cddb-c0b4-4580-bb07-7d98b6964d7f,adventures.expert,expiring,60,40,10,"Regional Network Information Center, JSC dba RU-CENTER",19/07/2021 04:20,19/07/2025 04:20
-b5868866-3ae5-41ab-a8ef-5b06c52452f0,adventures.me,expiring,60,40,10,Key-Systems GmbH,18/07/2008 18:18,18/07/2025 18:18
-52671f04-9c91-4f53-b4ec-f650e2b9351b,adventures.zone,expiring,60,40,10,"GoDaddy.com, LLC",02/08/2019 10:53,02/08/2025 10:53
