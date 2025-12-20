@@ -1,13 +1,13 @@
 
-# List of Expiring One Word Domain Names (63,843)
+# List of Expiring One Word Domain Names (64,044)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/expiring-oneword-domains.svg?style=flat)]() [![63,843 Expiring one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-63%2C843-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/expiring-oneword-domains.svg?style=flat)]() [![64,044 Expiring one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-64%2C044-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
 We constantly sweep the web to catalog the highest potential Expiring one-word domains still available to buy.
 
 This dataset contains 1,000 Expiring one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [Expiring one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=description.top) (63,843) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [Expiring one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=description.top) (64,044) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
@@ -15,48 +15,48 @@ If you want to search & filters the complete database of [Expiring one word doma
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/blob/main/expiring.csv"><b>⬇️ CSV (1K domains)</b></a> •
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/blob/main/expiring.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (63.84K)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (64.04K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain         | Status   | Attract. | Demand | Length | Registrar                                                          | Created          | Expires          |
-| -------------- | -------- | -------- | ------ | ------ | ------------------------------------------------------------------ | ---------------- | ---------------- |
-| aaa.baby       | expiring | 70       | 35%    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            | 16/12/2024 06:54 | 16/12/2025 23:59 |
-| aaa.loans      | expiring | 70       | 35%    | 3      | Epik LLC                                                           | 28/12/2015 14:04 | 28/12/2025 14:04 |
-| aaa.onl        | expiring | 70       | 35%    | 3      | NameCheap, Inc.                                                    | 04/01/2024 21:02 | 04/01/2026 21:02 |
-| AAAA.site      | expiring | 68       | 84%    | 4      | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.                | 15/07/2015 16:00 | 15/07/2025 23:59 |
-| AAD.co         | expiring | 82       | 80%    | 3      | 1API GmbH                                                          | 20/07/2010 18:00 | 19/07/2025 23:59 |
-| AAD.me         | expiring | 82       | 80%    | 3      | Infomaniak Network SA                                              | 17/07/2008 21:27 | 17/07/2025 21:27 |
-| AAD.zone       | expiring | 82       | 80%    | 3      | GoDaddy.com, LLC                                                   | 24/07/2024 16:15 | 24/07/2025 16:15 |
-| aah.me         | expiring | 114      | 92%    | 3      | GoDaddy.com, LLC                                                   | 17/07/2008 18:31 | 17/07/2025 18:31 |
-| aardvark.co    | expiring | 64       | 92%    | 8      | Domainbox Limited                                                  | 20/07/2010 18:01 | 19/07/2025 23:59 |
-| aargh.com      | expiring | 56       | 76%    | 5      | IONOS SE                                                           | 28/07/1995 04:00 | 27/07/2025 04:00 |
-| aaron.academy  | expiring | 88       | 28%    | 5      | Name.com, Inc.                                                     | 23/12/2024 14:49 | 23/12/2025 14:49 |
-| aaron.agency   | expiring | 88       | 28%    | 5      | GoDaddy.com, LLC                                                   | 31/12/2022 03:29 | 31/12/2025 03:29 |
-| aaron.cc       | expiring | 88       | 28%    | 5      | INWX GmbH                                                          | 06/01/2020 12:22 | 06/01/2026 12:22 |
-| aaron.gallery  | expiring | 88       | 28%    | 5      | Porkbun LLC                                                        | 27/12/2020 01:28 | 27/12/2025 01:28 |
-| aaron.gold     | expiring | 88       | 28%    | 5      | GoDaddy.com, LLC                                                   | 23/12/2021 12:47 | 23/12/2025 12:47 |
-| aaron.id       | expiring | 88       | 28%    | 5      | PT Jagat Informasi Solusi (int)                                    | 25/12/2020 11:42 | 25/12/2025 23:59 |
-| aaron.now      | expiring | 88       | 28%    | 5      | Spaceship, Inc.                                                    | 02/01/2025 03:06 | 02/01/2026 03:06 |
-| aaron.school   | expiring | 88       | 28%    | 5      | Porkbun LLC                                                        | 30/12/2021 05:26 | 30/12/2025 05:26 |
-| aaron.team     | expiring | 88       | 28%    | 5      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság | 18/12/2024 14:41 | 18/12/2025 14:41 |
-| aarp.co        | expiring | 58       | 76%    | 4      | GoDaddy.com, LLC                                                   | 21/07/2010 21:39 | 20/07/2025 23:59 |
-| aba.app        | expiring | 72       | 88%    | 3      | Global Domains International, Inc. DBA DomainCostClub.com          | 21/07/2023 13:30 | 21/07/2025 13:30 |
-| aba.co         | expiring | 72       | 88%    | 3      | GoDaddy.com, LLC                                                   | 21/07/2010 21:49 | 20/07/2025 23:59 |
-| aba.online     | expiring | 72       | 88%    | 3      | Go Daddy, LLC                                                      | 31/07/2022 01:05 | 31/07/2025 23:59 |
-| abandoned.ai   | expiring | 58       | 7%     | 9      | Name.com, Inc.                                                     | 13/12/2023 05:51 | 13/12/2025 05:51 |
-| abandoned.bar  | expiring | 58       | 7%     | 9      | Super Registry Inc.                                                | 25/09/2021 19:07 | 25/09/2025 23:59 |
-| abandoned.ca   | expiring | 58       | 7%     | 9      | Go Daddy Domains Canada, Inc                                       | 03/01/2007 20:44 | 03/01/2026 05:00 |
-| abandoned.info | expiring | 58       | 7%     | 9      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            | 30/12/2024 12:30 | 30/12/2025 12:30 |
-| abandoned.me   | expiring | 58       | 7%     | 9      | CommuniGal Communication Ltd.                                      | 24/12/2024 15:15 | 24/12/2025 15:15 |
-| abandoned.name | expiring | 58       | 7%     | 9      | Regional Network Information Center, JSC dba RU-CENTER             | 01/09/2010 11:54 | 01/09/2025 11:55 |
-| abandoned.net  | expiring | 58       | 7%     | 9      | TurnCommerce, Inc. DBA NameBright.com                              | 06/01/2015 19:30 | 06/01/2026 19:30 |
+| Domain            | Status   | Attract. | Demand | Length | Registrar                                                          | Created          | Expires          |
+| ----------------- | -------- | -------- | ------ | ------ | ------------------------------------------------------------------ | ---------------- | ---------------- |
+| aaa.baby          | expiring | 70       | 35%    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            | 16/12/2024 06:54 | 16/12/2025 23:59 |
+| aaa.loans         | expiring | 70       | 35%    | 3      | Epik LLC                                                           | 28/12/2015 14:04 | 28/12/2025 14:04 |
+| aaa.onl           | expiring | 70       | 35%    | 3      | NameCheap, Inc.                                                    | 04/01/2024 21:02 | 04/01/2026 21:02 |
+| AAAA.site         | expiring | 68       | 84%    | 4      | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.                | 15/07/2015 16:00 | 15/07/2025 23:59 |
+| AAD.co            | expiring | 82       | 80%    | 3      | 1API GmbH                                                          | 20/07/2010 18:00 | 19/07/2025 23:59 |
+| AAD.me            | expiring | 82       | 80%    | 3      | Infomaniak Network SA                                              | 17/07/2008 21:27 | 17/07/2025 21:27 |
+| AAD.zone          | expiring | 82       | 80%    | 3      | GoDaddy.com, LLC                                                   | 24/07/2024 16:15 | 24/07/2025 16:15 |
+| aah.me            | expiring | 114      | 92%    | 3      | GoDaddy.com, LLC                                                   | 17/07/2008 18:31 | 17/07/2025 18:31 |
+| aardvark.co       | expiring | 64       | 92%    | 8      | Domainbox Limited                                                  | 20/07/2010 18:01 | 19/07/2025 23:59 |
+| aargh.com         | expiring | 56       | 76%    | 5      | IONOS SE                                                           | 28/07/1995 04:00 | 27/07/2025 04:00 |
+| aaron.academy     | expiring | 88       | 28%    | 5      | Name.com, Inc.                                                     | 23/12/2024 14:49 | 23/12/2025 14:49 |
+| aaron.agency      | expiring | 88       | 28%    | 5      | GoDaddy.com, LLC                                                   | 31/12/2022 03:29 | 31/12/2025 03:29 |
+| aaron.cc          | expiring | 88       | 28%    | 5      | INWX GmbH                                                          | 06/01/2020 12:22 | 06/01/2026 12:22 |
+| aaron.gallery     | expiring | 88       | 28%    | 5      | Porkbun LLC                                                        | 27/12/2020 01:28 | 27/12/2025 01:28 |
+| aaron.gold        | expiring | 88       | 28%    | 5      | GoDaddy.com, LLC                                                   | 23/12/2021 12:47 | 23/12/2025 12:47 |
+| aaron.id          | expiring | 88       | 28%    | 5      | PT Jagat Informasi Solusi (int)                                    | 25/12/2020 11:42 | 25/12/2025 23:59 |
+| aaron.now         | expiring | 88       | 28%    | 5      | Spaceship, Inc.                                                    | 02/01/2025 03:06 | 02/01/2026 03:06 |
+| aaron.school      | expiring | 88       | 28%    | 5      | Porkbun LLC                                                        | 30/12/2021 05:26 | 30/12/2025 05:26 |
+| aaron.team        | expiring | 88       | 28%    | 5      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság | 18/12/2024 14:41 | 18/12/2025 14:41 |
+| aarp.co           | expiring | 58       | 76%    | 4      | GoDaddy.com, LLC                                                   | 21/07/2010 21:39 | 20/07/2025 23:59 |
+| aba.app           | expiring | 72       | 88%    | 3      | Global Domains International, Inc. DBA DomainCostClub.com          | 21/07/2023 13:30 | 21/07/2025 13:30 |
+| aba.co            | expiring | 72       | 88%    | 3      | GoDaddy.com, LLC                                                   | 21/07/2010 21:49 | 20/07/2025 23:59 |
+| aba.online        | expiring | 72       | 88%    | 3      | Go Daddy, LLC                                                      | 31/07/2022 01:05 | 31/07/2025 23:59 |
+| abandoned.bar     | expiring | 58       | 7%     | 9      | Super Registry Inc.                                                | 25/09/2021 19:07 | 25/09/2025 23:59 |
+| abandoned.info    | expiring | 58       | 7%     | 9      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            | 30/12/2024 12:30 | 30/12/2025 12:30 |
+| abandoned.me      | expiring | 58       | 7%     | 9      | CommuniGal Communication Ltd.                                      | 24/12/2024 15:15 | 24/12/2025 15:15 |
+| abandoned.name    | expiring | 58       | 7%     | 9      | Regional Network Information Center, JSC dba RU-CENTER             | 01/09/2010 11:54 | 01/09/2025 11:55 |
+| abandoned.net     | expiring | 58       | 7%     | 9      | TurnCommerce, Inc. DBA NameBright.com                              | 06/01/2015 19:30 | 06/01/2026 19:30 |
+| abandoned.network | expiring | 58       | 7%     | 9      | Tucows Domains Inc.                                                | 30/12/2015 09:00 | 30/12/2025 09:00 |
+| abandoned.quest   | expiring | 58       | 7%     | 9      | Porkbun, LLC                                                       | 23/12/2024 21:41 | 23/12/2025 23:59 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/blob/main/expiring.csv"><b>⬇️ CSV (1K domains)</b></a> •
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/blob/main/expiring.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (63.84K)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (64.04K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [Expiring one word doma
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,756       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 63,843       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,573    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,719       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 64,044       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,599,086    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
