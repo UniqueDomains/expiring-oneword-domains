@@ -1,13 +1,13 @@
 
-# List of Expiring One Word Domain Names (65,055)
+# List of Expiring One Word Domain Names (65,054)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/expiring-oneword-domains.svg?style=flat)]() [![65,055 Expiring one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-65%2C055-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/expiring-oneword-domains.svg?style=flat)]() [![65,054 Expiring one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-65%2C054-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
 We constantly sweep the web to catalog the highest potential Expiring one-word domains still available to buy.
 
 This dataset contains 1,000 Expiring one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [Expiring one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=description.top) (65,055) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [Expiring one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=description.top) (65,054) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
@@ -15,7 +15,7 @@ If you want to search & filters the complete database of [Expiring one word doma
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/blob/main/expiring.csv"><b>⬇️ CSV (1K domains)</b></a> •
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/blob/main/expiring.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (65.06K)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (65.05K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -56,7 +56,7 @@ If you want to search & filters the complete database of [Expiring one word doma
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/blob/main/expiring.csv"><b>⬇️ CSV (1K domains)</b></a> •
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/blob/main/expiring.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (65.06K)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (65.05K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -89,7 +89,8 @@ If you want to search & filters the complete database of [Expiring one word doma
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,942       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 65,055       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| Expiring | 65,054       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,598,876    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
