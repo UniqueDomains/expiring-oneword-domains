@@ -23,38 +23,38 @@ If you want to search & filters the complete database of [Expiring one word doma
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain           | Status   | Attract. | Demand | Length | Registrar                                           | Created          | Expires          |
-| ---------------- | -------- | -------- | ------ | ------ | --------------------------------------------------- | ---------------- | ---------------- |
-| written.diy      | expiring | 74       | 11%    | 7      | Porkbun LLC                                         | 25/04/2025 18:55 | 25/04/2026 18:55 |
-| written.id       | expiring | 74       | 11%    | 7      | PT Jagat Informasi Solusi (int)                     | 01/05/2020 15:05 | 01/05/2026 23:59 |
-| wrong.energy     | expiring | 82       | 16%    | 5      | NameCheap, Inc.                                     | 21/04/2025 18:48 | 21/04/2026 18:48 |
-| wrong.technology | expiring | 82       | 16%    | 5      | Squarespace Domains II LLC                          | 29/04/2021 06:49 | 29/04/2026 06:49 |
-| wrong.today      | expiring | 82       | 16%    | 5      | Name.com, Inc.                                      | 21/04/2014 18:50 | 21/04/2026 18:50 |
-| xii.one          | expiring | 66       | 12%    | 3      | Spaceship, Inc.                                     | 03/05/2025 15:56 | 03/05/2026 15:56 |
-| xiii.dev         | expiring | 66       | 13%    | 4      | Squarespace Domains II LLC.                         | 01/05/2019 04:26 | 01/05/2026 04:26 |
-| xiv.org          | expiring | 86       | 16%    | 3      | GoDaddy.com, LLC                                    | 03/05/2002 05:55 | 03/05/2026 05:55 |
-| xix.org          | expiring | 86       | 14%    | 3      | eNom, LLC                                           | 29/04/2003 22:29 | 29/04/2026 22:29 |
-| xvii.ink         | expiring | 66       | 7%     | 4      | NameCheap, Inc.                                     | 30/04/2025 10:47 | 30/04/2026 10:47 |
-| xxi.cards        | expiring | 66       | 12%    | 3      | Dynadot Inc                                         | 26/04/2025 13:45 | 26/04/2026 13:45 |
-| xxi.email        | expiring | 66       | 12%    | 3      | NameCheap, Inc.                                     | 28/04/2025 01:51 | 28/04/2026 01:51 |
-| xxi.markets      | expiring | 66       | 12%    | 3      | Dynadot Inc                                         | 26/04/2025 13:45 | 26/04/2026 13:45 |
-| xxi.one          | expiring | 66       | 12%    | 3      | Spaceship, Inc.                                     | 29/04/2025 00:39 | 29/04/2026 00:39 |
-| xxi.today        | expiring | 66       | 12%    | 3      | NameCheap, Inc.                                     | 02/05/2025 13:19 | 02/05/2026 13:19 |
-| yawn.best        | expiring | 62       | 15%    | 4      | Namecheap                                           | 01/05/2025 01:10 | 01/05/2026 23:59 |
-| yawn.buzz        | expiring | 62       | 15%    | 4      | GoDaddy.com, LLC                                    | 30/04/2020 00:30 | 30/04/2026 00:30 |
-| yawn.fun         | expiring | 62       | 15%    | 4      | Name.com, Inc.                                      | 13/04/2018 09:06 | 13/04/2026 23:59 |
-| yawn.net         | expiring | 62       | 15%    | 4      | Dynadot Inc                                         | 25/04/2002 18:20 | 25/04/2026 18:20 |
-| yeah.beauty      | expiring | 78       | 25%    | 4      | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD. | 01/05/2025 09:01 | 01/05/2026 23:59 |
-| yeah.org         | expiring | 78       | 25%    | 4      | Domain.com - Network Solutions, LLC                 | 28/04/1998 04:00 | 27/04/2026 04:00 |
-| yeah.run         | expiring | 78       | 25%    | 4      | GoDaddy.com, LLC                                    | 24/04/2025 00:39 | 24/04/2026 00:39 |
-| yeah.store       | expiring | 78       | 25%    | 4      | NameCheap, Inc.                                     | 26/04/2023 17:13 | 26/04/2026 23:59 |
-| yearbook.co      | expiring | 74       | 16%    | 8      | GoDaddy.com, LLC                                    | 01/05/2021 17:00 | 01/05/2026 23:59 |
-| yearbook.id      | expiring | 74       | 16%    | 8      | PT Web Media Technology Indonesia                   | 25/04/2025 10:00 | 25/04/2026 23:59 |
-| yearbook.me      | expiring | 74       | 16%    | 8      | GoDaddy.com, LLC                                    | 29/04/2008 18:03 | 29/04/2026 18:03 |
-| yellow.bar       | expiring | 84       | 37%    | 6      | Dynadot, LLC                                        | 27/04/2025 07:04 | 27/04/2026 07:04 |
-| yellow.cards     | expiring | 84       | 37%    | 6      | eNom, LLC                                           | 24/04/2025 15:53 | 24/04/2026 15:53 |
-| yellow.casino    | expiring | 84       | 35%    | 6      | Porkbun LLC                                         | 18/04/2018 19:22 | 18/04/2026 19:22 |
-| yellow.clothing  | expiring | 84       | 37%    | 6      | GoDaddy.com, LLC                                    | 19/04/2018 14:32 | 19/04/2026 14:32 |
+| Domain             | Status   | Attract. | Demand | Length | Registrar                                                          | Created          | Expires          |
+| ------------------ | -------- | -------- | ------ | ------ | ------------------------------------------------------------------ | ---------------- | ---------------- |
+| worth.chat         | expiring | 76       | 24%    | 5      | Chengdu West Dimension Digital Technology Co., Ltd.                | 26/04/2023 14:25 | 26/04/2026 14:25 |
+| worth.clinic       | expiring | 76       | 24%    | 5      | Dynadot Inc                                                        | 29/04/2025 17:45 | 29/04/2026 17:45 |
+| worth.construction | expiring | 76       | 24%    | 5      | GoDaddy.com, LLC                                                   | 21/04/2020 17:10 | 21/04/2026 17:10 |
+| worth.engineering  | expiring | 76       | 24%    | 5      | GoDaddy.com, LLC                                                   | 21/04/2020 17:10 | 21/04/2026 17:10 |
+| worthwhile.net     | expiring | 78       | 8%     | 10     | TurnCommerce, Inc. DBA NameBright.com                              | 01/05/2000 11:41 | 01/05/2026 11:41 |
+| worthy.care        | expiring | 76       | 21%    | 6      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság | 24/04/2025 15:16 | 24/04/2026 15:16 |
+| worthy.charity     | expiring | 76       | 21%    | 6      | Squarespace Domains II LLC                                         | 20/04/2021 15:41 | 20/04/2026 15:41 |
+| worthy.coupons     | expiring | 76       | 21%    | 6      | NameCheap, Inc.                                                    | 22/04/2025 20:03 | 22/04/2026 20:03 |
+| worthy.host        | expiring | 76       | 21%    | 6      | Registrar of Domain Names REG.RU LLC                               | 25/04/2025 15:29 | 25/04/2026 23:59 |
+| worthy.insure      | expiring | 76       | 21%    | 6      | GoDaddy.com, LLC                                                   | 20/04/2016 22:00 | 20/04/2026 22:00 |
+| worthy.zone        | expiring | 76       | 21%    | 6      | Blue Razor Domains, LLC                                            | 30/04/2014 16:00 | 30/04/2026 16:00 |
+| woven.science      | expiring | 76       | 27%    | 5      | Tucows Domains Inc.                                                | 22/04/2021 16:59 | 22/04/2026 16:59 |
+| written.diy        | expiring | 74       | 11%    | 7      | Porkbun LLC                                                        | 25/04/2025 18:55 | 25/04/2026 18:55 |
+| written.id         | expiring | 74       | 11%    | 7      | PT Jagat Informasi Solusi (int)                                    | 01/05/2020 15:05 | 01/05/2026 23:59 |
+| wrong.energy       | expiring | 82       | 16%    | 5      | NameCheap, Inc.                                                    | 21/04/2025 18:48 | 21/04/2026 18:48 |
+| wrong.technology   | expiring | 82       | 16%    | 5      | Squarespace Domains II LLC                                         | 29/04/2021 06:49 | 29/04/2026 06:49 |
+| wrong.today        | expiring | 82       | 16%    | 5      | Name.com, Inc.                                                     | 21/04/2014 18:50 | 21/04/2026 18:50 |
+| xii.one            | expiring | 66       | 12%    | 3      | Spaceship, Inc.                                                    | 03/05/2025 15:56 | 03/05/2026 15:56 |
+| xiii.dev           | expiring | 66       | 13%    | 4      | Squarespace Domains II LLC.                                        | 01/05/2019 04:26 | 01/05/2026 04:26 |
+| xiv.org            | expiring | 86       | 16%    | 3      | GoDaddy.com, LLC                                                   | 03/05/2002 05:55 | 03/05/2026 05:55 |
+| xix.org            | expiring | 86       | 14%    | 3      | eNom, LLC                                                          | 29/04/2003 22:29 | 29/04/2026 22:29 |
+| xvii.ink           | expiring | 66       | 7%     | 4      | NameCheap, Inc.                                                    | 30/04/2025 10:47 | 30/04/2026 10:47 |
+| xxi.cards          | expiring | 66       | 12%    | 3      | Dynadot Inc                                                        | 26/04/2025 13:45 | 26/04/2026 13:45 |
+| xxi.email          | expiring | 66       | 12%    | 3      | NameCheap, Inc.                                                    | 28/04/2025 01:51 | 28/04/2026 01:51 |
+| xxi.markets        | expiring | 66       | 12%    | 3      | Dynadot Inc                                                        | 26/04/2025 13:45 | 26/04/2026 13:45 |
+| xxi.one            | expiring | 66       | 12%    | 3      | Spaceship, Inc.                                                    | 29/04/2025 00:39 | 29/04/2026 00:39 |
+| xxi.today          | expiring | 66       | 12%    | 3      | NameCheap, Inc.                                                    | 02/05/2025 13:19 | 02/05/2026 13:19 |
+| yawn.best          | expiring | 62       | 15%    | 4      | Namecheap                                                          | 01/05/2025 01:10 | 01/05/2026 23:59 |
+| yawn.buzz          | expiring | 62       | 15%    | 4      | GoDaddy.com, LLC                                                   | 30/04/2020 00:30 | 30/04/2026 00:30 |
+| yawn.fun           | expiring | 62       | 15%    | 4      | Name.com, Inc.                                                     | 13/04/2018 09:06 | 13/04/2026 23:59 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/expiring-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -94,7 +94,7 @@ If you want to search & filters the complete database of [Expiring one word doma
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 40,354       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 99,294       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,622,376    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 5,622,487    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
@@ -385,32 +385,32 @@ If you want to search & filters the complete database of [Expiring one word doma
 | .LONDON        | 5,622,445    | [Github](https://github.com/UniqueDomains/london-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=london-oneword-domains&utm_content=table.link)        |
 | .LOVE          | 5,622,446    | [Github](https://github.com/UniqueDomains/love-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=love-oneword-domains&utm_content=table.link)          |
 | .LTD           | 5,622,448    | [Github](https://github.com/UniqueDomains/ltd-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ltd-oneword-domains&utm_content=table.link)           |
-| .LTDA          | 5,622,374    | [Github](https://github.com/UniqueDomains/ltda-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ltda-oneword-domains&utm_content=table.link)          |
-| .LUXE          | 5,622,375    | [Github](https://github.com/UniqueDomains/luxe-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=luxe-oneword-domains&utm_content=table.link)          |
-| .LUXURY        | 5,622,375    | [Github](https://github.com/UniqueDomains/luxury-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=luxury-oneword-domains&utm_content=table.link)        |
-| .MAISON        | 5,622,377    | [Github](https://github.com/UniqueDomains/maison-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=maison-oneword-domains&utm_content=table.link)        |
-| .MAKEUP        | 5,622,377    | [Github](https://github.com/UniqueDomains/makeup-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=makeup-oneword-domains&utm_content=table.link)        |
-| .MANAGEMENT    | 5,622,377    | [Github](https://github.com/UniqueDomains/management-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=management-oneword-domains&utm_content=table.link)    |
-| .MARKET        | 5,622,378    | [Github](https://github.com/UniqueDomains/market-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=market-oneword-domains&utm_content=table.link)        |
-| .MARKETING     | 5,622,378    | [Github](https://github.com/UniqueDomains/marketing-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=marketing-oneword-domains&utm_content=table.link)     |
-| .MARKETS       | 5,622,378    | [Github](https://github.com/UniqueDomains/markets-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=markets-oneword-domains&utm_content=table.link)       |
-| .MBA           | 5,622,378    | [Github](https://github.com/UniqueDomains/mba-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mba-oneword-domains&utm_content=table.link)           |
-| .ME            | 5,622,378    | [Github](https://github.com/UniqueDomains/me-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=me-oneword-domains&utm_content=table.link)            |
-| .MEDIA         | 5,622,379    | [Github](https://github.com/UniqueDomains/media-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=media-oneword-domains&utm_content=table.link)         |
-| .MELBOURNE     | 5,622,379    | [Github](https://github.com/UniqueDomains/melbourne-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=melbourne-oneword-domains&utm_content=table.link)     |
-| .MEME          | 5,622,378    | [Github](https://github.com/UniqueDomains/meme-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=meme-oneword-domains&utm_content=table.link)          |
-| .MEMORIAL      | 5,622,378    | [Github](https://github.com/UniqueDomains/memorial-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=memorial-oneword-domains&utm_content=table.link)      |
-| .MEN           | 5,622,378    | [Github](https://github.com/UniqueDomains/men-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=men-oneword-domains&utm_content=table.link)           |
-| .MENU          | 5,622,376    | [Github](https://github.com/UniqueDomains/menu-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=menu-oneword-domains&utm_content=table.link)          |
-| .MIAMI         | 5,621,926    | [Github](https://github.com/UniqueDomains/miami-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=miami-oneword-domains&utm_content=table.link)         |
-| .MOBI          | 5,621,926    | [Github](https://github.com/UniqueDomains/mobi-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mobi-oneword-domains&utm_content=table.link)          |
-| .MOBILE        | 5,621,926    | [Github](https://github.com/UniqueDomains/mobile-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mobile-oneword-domains&utm_content=table.link)        |
-| .MODA          | 5,621,926    | [Github](https://github.com/UniqueDomains/moda-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=moda-oneword-domains&utm_content=table.link)          |
-| .MOE           | 5,621,926    | [Github](https://github.com/UniqueDomains/moe-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=moe-oneword-domains&utm_content=table.link)           |
-| .MOI           | 5,621,926    | [Github](https://github.com/UniqueDomains/moi-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=moi-oneword-domains&utm_content=table.link)           |
-| .MOM           | 5,621,926    | [Github](https://github.com/UniqueDomains/mom-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mom-oneword-domains&utm_content=table.link)           |
-| .MONEY         | 5,621,926    | [Github](https://github.com/UniqueDomains/money-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=money-oneword-domains&utm_content=table.link)         |
-| .MONSTER       | 5,621,926    | [Github](https://github.com/UniqueDomains/monster-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=monster-oneword-domains&utm_content=table.link)       |
+| .LTDA          | 5,622,450    | [Github](https://github.com/UniqueDomains/ltda-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ltda-oneword-domains&utm_content=table.link)          |
+| .LUXE          | 5,622,451    | [Github](https://github.com/UniqueDomains/luxe-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=luxe-oneword-domains&utm_content=table.link)          |
+| .LUXURY        | 5,622,452    | [Github](https://github.com/UniqueDomains/luxury-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=luxury-oneword-domains&utm_content=table.link)        |
+| .MAISON        | 5,622,461    | [Github](https://github.com/UniqueDomains/maison-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=maison-oneword-domains&utm_content=table.link)        |
+| .MAKEUP        | 5,622,463    | [Github](https://github.com/UniqueDomains/makeup-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=makeup-oneword-domains&utm_content=table.link)        |
+| .MANAGEMENT    | 5,622,464    | [Github](https://github.com/UniqueDomains/management-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=management-oneword-domains&utm_content=table.link)    |
+| .MARKET        | 5,622,466    | [Github](https://github.com/UniqueDomains/market-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=market-oneword-domains&utm_content=table.link)        |
+| .MARKETING     | 5,622,469    | [Github](https://github.com/UniqueDomains/marketing-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=marketing-oneword-domains&utm_content=table.link)     |
+| .MARKETS       | 5,622,472    | [Github](https://github.com/UniqueDomains/markets-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=markets-oneword-domains&utm_content=table.link)       |
+| .MBA           | 5,622,476    | [Github](https://github.com/UniqueDomains/mba-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mba-oneword-domains&utm_content=table.link)           |
+| .ME            | 5,622,472    | [Github](https://github.com/UniqueDomains/me-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=me-oneword-domains&utm_content=table.link)            |
+| .MEDIA         | 5,622,470    | [Github](https://github.com/UniqueDomains/media-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=media-oneword-domains&utm_content=table.link)         |
+| .MELBOURNE     | 5,622,473    | [Github](https://github.com/UniqueDomains/melbourne-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=melbourne-oneword-domains&utm_content=table.link)     |
+| .MEME          | 5,622,474    | [Github](https://github.com/UniqueDomains/meme-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=meme-oneword-domains&utm_content=table.link)          |
+| .MEMORIAL      | 5,622,471    | [Github](https://github.com/UniqueDomains/memorial-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=memorial-oneword-domains&utm_content=table.link)      |
+| .MEN           | 5,622,471    | [Github](https://github.com/UniqueDomains/men-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=men-oneword-domains&utm_content=table.link)           |
+| .MENU          | 5,622,473    | [Github](https://github.com/UniqueDomains/menu-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=menu-oneword-domains&utm_content=table.link)          |
+| .MIAMI         | 5,622,475    | [Github](https://github.com/UniqueDomains/miami-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=miami-oneword-domains&utm_content=table.link)         |
+| .MOBI          | 5,622,479    | [Github](https://github.com/UniqueDomains/mobi-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mobi-oneword-domains&utm_content=table.link)          |
+| .MOBILE        | 5,622,487    | [Github](https://github.com/UniqueDomains/mobile-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mobile-oneword-domains&utm_content=table.link)        |
+| .MODA          | 5,622,485    | [Github](https://github.com/UniqueDomains/moda-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=moda-oneword-domains&utm_content=table.link)          |
+| .MOE           | 5,622,488    | [Github](https://github.com/UniqueDomains/moe-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=moe-oneword-domains&utm_content=table.link)           |
+| .MOI           | 5,622,489    | [Github](https://github.com/UniqueDomains/moi-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=moi-oneword-domains&utm_content=table.link)           |
+| .MOM           | 5,622,487    | [Github](https://github.com/UniqueDomains/mom-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mom-oneword-domains&utm_content=table.link)           |
+| .MONEY         | 5,622,489    | [Github](https://github.com/UniqueDomains/money-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=money-oneword-domains&utm_content=table.link)         |
+| .MONSTER       | 5,622,491    | [Github](https://github.com/UniqueDomains/monster-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=monster-oneword-domains&utm_content=table.link)       |
 | .MORTGAGE      | 5,621,926    | [Github](https://github.com/UniqueDomains/mortgage-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mortgage-oneword-domains&utm_content=table.link)      |
 | .MOTORCYCLES   | 5,621,926    | [Github](https://github.com/UniqueDomains/motorcycles-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=motorcycles-oneword-domains&utm_content=table.link)   |
 | .MOV           | 5,621,926    | [Github](https://github.com/UniqueDomains/mov-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mov-oneword-domains&utm_content=table.link)           |
