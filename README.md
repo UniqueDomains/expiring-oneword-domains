@@ -1,10 +1,10 @@
-# Expiring One-Word Domains (102,590)
+# Expiring One-Word Domains (102,669)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-102%2C590%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-102%2C669%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of expiring one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **102,590 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **102,669 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 102,590 domains
+**Public extract:** 10,000 rows · **Live catalog:** 102,669 domains
 
-**Last updated:** 2026-04-09  
+**Last updated:** 2026-04-10  
 **Canonical page:** `https://unique.domains/domains/expiring`  
 **Best for:** investors, acquisition teams
 
@@ -61,7 +61,7 @@ This repository is the public extract for the exact Unique Domains search repres
 
 | GitHub extract           | Live product                                     |
 | ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 102,590 live domains                             |
+| 10,000-row public sample | 102,669 live domains                             |
 | Static CSV / JSON        | live search and daily refresh                    |
 | Basic exported fields    | deeper price, demand, risk, and workflow context |
 | No persistence           | Radar, saved search, and alerts                  |
@@ -80,28 +80,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status   | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| -------------------- | -------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| diplomacy.me         | expiring | $402.50   | $27.99        | 73             | 13     | 9      | Dynadot Inc                                 |
-| monetary.nl          | expiring | $3,400.70 | —             | 72             | 10     | 8      | The Registrar Company B.V.                  |
-| funny.id             | expiring | —         | —             | 111            | 99     | 5      | PANDI Registrar                             |
-| idea.us              | expiring | —         | —             | 88             | 99     | 4      | GoDaddy.com, LLC                            |
-| idea.la              | expiring | —         | —             | 88             | 99     | 4      | GoDaddy.com, Inc.                           |
-| idea.co              | expiring | —         | —             | 88             | 99     | 4      | GoDaddy.com, LLC                            |
-| france.us            | expiring | —         | —             | 76             | 99     | 6      | IONOS SE                                    |
-| wild.events          | expiring | —         | —             | 66             | 99     | 4      | Gandi SAS                                   |
-| endorse.now          | expiring | —         | —             | 100            | 98     | 7      | Spaceship, Inc.                             |
-| nonstop.asia         | expiring | —         | —             | 98             | 98     | 7      | GoDaddy.com, LLC                            |
-| commercial.community | expiring | —         | —             | 91             | 98     | 10     | GoDaddy.com, LLC                            |
-| cyan.lol             | expiring | —         | —             | 90             | 98     | 4      | TLD Registrar Solutions Ltd                 |
-| apart.earth          | expiring | —         | —             | 78             | 98     | 5      | GoDaddy.com, LLC                            |
-| awaken.id            | expiring | —         | —             | 76             | 98     | 6      | PANDI Registrar                             |
-| bright.events        | expiring | —         | —             | 74             | 98     | 6      | GoDaddy.com, LLC                            |
-| brandnew.energy      | expiring | —         | —             | 72             | 98     | 9      | NameCheap, Inc.                             |
-| bahamas.us           | expiring | —         | —             | 70             | 98     | 7      | GoDaddy.com, LLC                            |
-| can.asia             | expiring | —         | —             | 68             | 98     | 3      | Alibaba Cloud Computing (Beijing) Co., Ltd. |
-| nuts.farm            | expiring | —         | —             | 64             | 98     | 4      | GoDaddy.com, LLC                            |
-| stamp.email          | expiring | —         | —             | 64             | 98     | 5      | Cronon GmbH                                 |
+| domain          | status   | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| --------------- | -------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| diplomacy.me    | expiring | $402.50   | $27.99        | 73             | 13     | 9      | Dynadot Inc                                 |
+| monetary.nl     | expiring | $3,400.70 | —             | 72             | 10     | 8      | The Registrar Company B.V.                  |
+| idea.us         | expiring | —         | —             | 88             | 99     | 4      | GoDaddy.com, LLC                            |
+| idea.co         | expiring | —         | —             | 88             | 99     | 4      | GoDaddy.com, LLC                            |
+| france.us       | expiring | —         | —             | 76             | 99     | 6      | IONOS SE                                    |
+| cyan.lol        | expiring | —         | —             | 90             | 98     | 4      | TLD Registrar Solutions Ltd                 |
+| bahamas.us      | expiring | —         | —             | 70             | 98     | 7      | GoDaddy.com, LLC                            |
+| can.asia        | expiring | —         | —             | 68             | 98     | 3      | Alibaba Cloud Computing (Beijing) Co., Ltd. |
+| can.ag          | expiring | —         | —             | 58             | 98     | 3      | NicAg Registrar                             |
+| sanmarino.mx    | expiring | —         | —             | 76             | 97     | 10     | NEUBOX Internet SA de CV                    |
+| andro.id        | expiring | —         | —             | 78             | 95     | 7      | PT Digital Registra Indonesia               |
+| amazon.zone     | expiring | —         | —             | 82             | 93     | 6      | Nom-iq Ltd. dba COM LAUDE                   |
+| amazon.works    | expiring | —         | —             | 82             | 93     | 6      | Nom-iq Ltd. dba COM LAUDE                   |
+| amazon.video    | expiring | —         | —             | 82             | 93     | 6      | Nom-iq Ltd. dba COM LAUDE                   |
+| amazon.social   | expiring | —         | —             | 82             | 93     | 6      | Nom-iq Ltd. dba COM LAUDE                   |
+| amazon.sale     | expiring | —         | —             | 82             | 93     | 6      | Nom-iq Ltd. dba COM LAUDE                   |
+| amazon.reviews  | expiring | —         | —             | 82             | 93     | 6      | Nom-iq Ltd. dba COM LAUDE                   |
+| amazon.realty   | expiring | —         | —             | 82             | 93     | 6      | Nom-iq Ltd. dba COM LAUDE                   |
+| amazon.promo    | expiring | —         | —             | 82             | 93     | 6      | Nom-iq Ltd. dba COM LAUDE                   |
+| amazon.observer | expiring | —         | —             | 82             | 93     | 6      | Nom-iq Ltd. dba COM LAUDE                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -151,7 +151,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expiring One-Word Domains*. Version 2026-04-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expiring One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
