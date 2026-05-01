@@ -1,10 +1,10 @@
-# Expiring One-Word Domains (124,678)
+# Expiring One-Word Domains (125,579)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-124%2C678%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-125%2C579%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of expiring one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **124,678 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **125,579 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 124,678 domains
+**Public extract:** 1,000 rows · **Live catalog:** 125,579 domains
 
-**Last updated:** 2026-04-30  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/expiring`  
 **Best for:** investors, acquisition teams
 
@@ -68,22 +68,22 @@ print(df.head())
 | amazon.social     | expiring | —         | —             | 82             | 92     | 6      | Nom-iq Ltd. dba COM LAUDE                                                 |
 | amazon.futbol     | expiring | —         | —             | 82             | 92     | 6      | Nom-iq Ltd. dba COM LAUDE                                                 |
 | eBay.space        | expiring | —         | —             | 78             | 91     | 4      | NAME DOT STORE INC                                                        |
-| apple.green       | expiring | —         | —             | 88             | 89     | 5      | Nom-iq Ltd. dba COM LAUDE                                                 |
 | swift.casa        | expiring | —         | —             | 68             | 84     | 5      | NameCheap, Inc.                                                           |
 | woo.systems       | expiring | —         | —             | 67             | 83     | 3      | NameCheap, Inc.                                                           |
-| cat.paris         | expiring | —         | —             | 82             | 82     | 3      | 1API GmbH                                                                 |
 | prime.immobilien  | expiring | —         | —             | 76             | 82     | 5      | Nom-iq Ltd. dba COM LAUDE                                                 |
 | prime.fit         | expiring | —         | —             | 76             | 82     | 5      | Nom-iq Ltd. dba COM LAUDE                                                 |
 | prime.design      | expiring | —         | —             | 76             | 82     | 5      | Nom-iq Ltd. dba COM LAUDE                                                 |
 | prime.cool        | expiring | —         | —             | 76             | 82     | 5      | Nom-iq Ltd. dba COM LAUDE                                                 |
+| normal.rocks      | expiring | —         | —             | 76             | 82     | 6      | Name.com, Inc.                                                            |
 | normal.ag         | expiring | —         | —             | 76             | 82     | 6      | Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA |
+| cat.paris         | expiring | —         | —             | 82             | 80     | 3      | 1API GmbH                                                                 |
 | nike.xxx          | expiring | —         | —             | 78             | 80     | 4      | MarkMonitor, Inc.                                                         |
 | polo.baby         | expiring | —         | —             | 76             | 80     | 4      | Dynadot LLC                                                               |
 | checkout.click    | expiring | —         | —             | 72             | 79     | 9      | NAMECHEAP                                                                 |
-| Chanel.vc         | expiring | —         | —             | 80             | 77     | 6      | CSC Corporate Domains, Inc.                                               |
 | mesh.cruises      | expiring | —         | —             | 74             | 77     | 4      | GoDaddy Online Services Cayman Islands Ltd.                               |
 | discover.clothing | expiring | —         | —             | 70             | 75     | 8      | 1API GmbH                                                                 |
 | impact.stream     | expiring | —         | —             | 74             | 74     | 6      | Squarespace Domains II LLC                                                |
+| outlook.luxury    | expiring | —         | —             | 77             | 72     | 7      | Squarespace Domains II LLC                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 124,678 live domains                             |
+| 1,000-row public sample | 125,579 live domains                             |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expiring One-Word Domains*. Version 2026-04-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expiring One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
