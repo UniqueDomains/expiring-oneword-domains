@@ -1,22 +1,22 @@
-# Expiring One-Word Domains (125,579)
+# Expiring One-Word Domains (127,897)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-125%2C579%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-127%2C897%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of expiring one-word domains from Unique Domains.
+These domains are expiring one-word names across 505 TLDs, including examples like zen.ai, bot.app, wow.agency, and van.app. Updated daily. This selection includes 127,897 domains, with a median ask of 61,091, so price discipline and renewal checks matter.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **125,579 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **127,897 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 125,579 domains
+**Public extract:** 1,000 rows · **Live catalog:** 127,897 domains · **Median ask:** $61,090.66 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/expiring`  
 **Best for:** investors, acquisition teams
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status   | ask_price | renewal_price | attractiveness | demand | length | registrar                                                                 |
-| ----------------- | -------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------------- |
-| sanmarino.mx      | expiring | —         | —             | 76             | 97     | 10     | NEUBOX Internet SA de CV                                                  |
-| amazon.social     | expiring | —         | —             | 82             | 92     | 6      | Nom-iq Ltd. dba COM LAUDE                                                 |
-| amazon.futbol     | expiring | —         | —             | 82             | 92     | 6      | Nom-iq Ltd. dba COM LAUDE                                                 |
-| eBay.space        | expiring | —         | —             | 78             | 91     | 4      | NAME DOT STORE INC                                                        |
-| swift.casa        | expiring | —         | —             | 68             | 84     | 5      | NameCheap, Inc.                                                           |
-| woo.systems       | expiring | —         | —             | 67             | 83     | 3      | NameCheap, Inc.                                                           |
-| prime.immobilien  | expiring | —         | —             | 76             | 82     | 5      | Nom-iq Ltd. dba COM LAUDE                                                 |
-| prime.fit         | expiring | —         | —             | 76             | 82     | 5      | Nom-iq Ltd. dba COM LAUDE                                                 |
-| prime.design      | expiring | —         | —             | 76             | 82     | 5      | Nom-iq Ltd. dba COM LAUDE                                                 |
-| prime.cool        | expiring | —         | —             | 76             | 82     | 5      | Nom-iq Ltd. dba COM LAUDE                                                 |
-| normal.rocks      | expiring | —         | —             | 76             | 82     | 6      | Name.com, Inc.                                                            |
-| normal.ag         | expiring | —         | —             | 76             | 82     | 6      | Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA |
-| cat.paris         | expiring | —         | —             | 82             | 80     | 3      | 1API GmbH                                                                 |
-| nike.xxx          | expiring | —         | —             | 78             | 80     | 4      | MarkMonitor, Inc.                                                         |
-| polo.baby         | expiring | —         | —             | 76             | 80     | 4      | Dynadot LLC                                                               |
-| checkout.click    | expiring | —         | —             | 72             | 79     | 9      | NAMECHEAP                                                                 |
-| mesh.cruises      | expiring | —         | —             | 74             | 77     | 4      | GoDaddy Online Services Cayman Islands Ltd.                               |
-| discover.clothing | expiring | —         | —             | 70             | 75     | 8      | 1API GmbH                                                                 |
-| impact.stream     | expiring | —         | —             | 74             | 74     | 6      | Squarespace Domains II LLC                                                |
-| outlook.luxury    | expiring | —         | —             | 77             | 72     | 7      | Squarespace Domains II LLC                                                |
+| domain           | status   | ask_price | renewal_price | attractiveness | demand | length | registrar                                                                 |
+| ---------------- | -------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------------- |
+| sanmarino.mx     | expiring | —         | —             | 76             | 97     | 10     | NEUBOX Internet SA de CV                                                  |
+| sanmarino.me     | expiring | —         | —             | 76             | 97     | 10     | Dynadot Inc                                                               |
+| amazon.social    | expiring | —         | —             | 82             | 92     | 6      | Nom-iq Ltd. dba COM LAUDE                                                 |
+| amazon.futbol    | expiring | —         | —             | 82             | 92     | 6      | Nom-iq Ltd. dba COM LAUDE                                                 |
+| amazon.markets   | expiring | —         | —             | 82             | 91     | 6      | Nom-iq Ltd. dba COM LAUDE                                                 |
+| eBay.space       | expiring | —         | —             | 78             | 91     | 4      | NAME DOT STORE INC                                                        |
+| swift.casa       | expiring | —         | —             | 68             | 84     | 5      | NameCheap, Inc.                                                           |
+| woo.systems      | expiring | —         | —             | 67             | 83     | 3      | NameCheap, Inc.                                                           |
+| prime.immobilien | expiring | —         | —             | 76             | 82     | 5      | Nom-iq Ltd. dba COM LAUDE                                                 |
+| prime.fit        | expiring | —         | —             | 76             | 82     | 5      | Nom-iq Ltd. dba COM LAUDE                                                 |
+| prime.design     | expiring | —         | —             | 76             | 82     | 5      | Nom-iq Ltd. dba COM LAUDE                                                 |
+| prime.cool       | expiring | —         | —             | 76             | 82     | 5      | Nom-iq Ltd. dba COM LAUDE                                                 |
+| normal.rocks     | expiring | —         | —             | 76             | 82     | 6      | Name.com, Inc.                                                            |
+| normal.ag        | expiring | —         | —             | 76             | 82     | 6      | Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA |
+| cat.paris        | expiring | —         | —             | 82             | 80     | 3      | 1API GmbH                                                                 |
+| nike.xxx         | expiring | —         | —             | 78             | 80     | 4      | MarkMonitor, Inc.                                                         |
+| polo.baby        | expiring | —         | —             | 76             | 80     | 4      | Dynadot LLC                                                               |
+| checkout.click   | expiring | —         | —             | 72             | 78     | 9      | NAMECHEAP                                                                 |
+| mesh.cruises     | expiring | —         | —             | 74             | 77     | 4      | GoDaddy Online Services Cayman Islands Ltd.                               |
+| impact.stream    | expiring | —         | —             | 74             | 74     | 6      | Squarespace Domains II LLC                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 125,579 live domains                             |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 127,897 live domains                       |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of expiring one-word domains. The range is broad, spanning 505 TLDs and examples from zen.ai and bot.app to wow.agency and bot.accountants. That mix creates both opportunity and uneven quality. For investors, the key questions are entry price, renewal burden, and whether the extension supports resale demand. For founders, the decision is usually simpler: is the name memorable, easy to say, and credible on its TLD. With a median ask of 61,091, these domains should be compared carefully on brand strength, extension fit, and downside risk before making a shortlist.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Check whether the TLD strengthens or weakens the word
+- Compare ask price against likely resale or brand use
+- Watch renewal risk on less common or niche extensions
+- Favor names that are clear, memorable, and easy to say
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expiring One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expiring One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
