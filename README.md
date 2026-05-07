@@ -1,10 +1,10 @@
-# Expiring One-Word Domains (127,897)
+# Expiring One-Word Domains (128,759)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-127%2C897%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-128%2C759%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 These domains are expiring one-word names across 505 TLDs, including examples like zen.ai, bot.app, wow.agency, and van.app. Updated daily. This selection includes 127,897 domains, with a median ask of 61,091, so price discipline and renewal checks matter.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **127,897 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **128,759 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 127,897 domains · **Median ask:** $61,090.66 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 128,759 domains · **Median ask:** $55,114.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-06  
+**Last updated:** 2026-05-07  
 **Canonical page:** `https://unique.domains/domains/expiring`  
 **Best for:** investors, acquisition teams
 
@@ -66,6 +66,7 @@ print(df.head())
 | ---------------- | -------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------------- |
 | sanmarino.mx     | expiring | —         | —             | 76             | 97     | 10     | NEUBOX Internet SA de CV                                                  |
 | sanmarino.me     | expiring | —         | —             | 76             | 97     | 10     | Dynadot Inc                                                               |
+| jersey.mx        | expiring | —         | —             | 74             | 96     | 6      | NEUBOX Internet SA de CV                                                  |
 | amazon.social    | expiring | —         | —             | 82             | 92     | 6      | Nom-iq Ltd. dba COM LAUDE                                                 |
 | amazon.futbol    | expiring | —         | —             | 82             | 92     | 6      | Nom-iq Ltd. dba COM LAUDE                                                 |
 | amazon.markets   | expiring | —         | —             | 82             | 91     | 6      | Nom-iq Ltd. dba COM LAUDE                                                 |
@@ -83,7 +84,6 @@ print(df.head())
 | polo.baby        | expiring | —         | —             | 76             | 80     | 4      | Dynadot LLC                                                               |
 | checkout.click   | expiring | —         | —             | 72             | 78     | 9      | NAMECHEAP                                                                 |
 | mesh.cruises     | expiring | —         | —             | 74             | 77     | 4      | GoDaddy Online Services Cayman Islands Ltd.                               |
-| impact.stream    | expiring | —         | —             | 74             | 74     | 6      | Squarespace Domains II LLC                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 127,897 live domains                       |
+| 1,000-row public sample | 128,759 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expiring One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expiring One-Word Domains*. Version 2026-05-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
