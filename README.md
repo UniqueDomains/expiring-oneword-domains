@@ -80,10 +80,10 @@ print(df.head())
 | normal.rocks     | expiring | —         | —             | 76             | 82     | 6      | Name.com, Inc.                                                            |
 | normal.ag        | expiring | —         | —             | 76             | 82     | 6      | Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA |
 | cat.paris        | expiring | —         | —             | 82             | 80     | 3      | 1API GmbH                                                                 |
-| nike.xxx         | expiring | —         | —             | 78             | 80     | 4      | MarkMonitor, Inc.                                                         |
 | polo.baby        | expiring | —         | —             | 76             | 80     | 4      | Dynadot LLC                                                               |
 | checkout.click   | expiring | —         | —             | 72             | 78     | 9      | NAMECHEAP                                                                 |
 | mesh.cruises     | expiring | —         | —             | 74             | 77     | 4      | GoDaddy Online Services Cayman Islands Ltd.                               |
+| impact.stream    | expiring | —         | —             | 74             | 74     | 6      | Squarespace Domains II LLC                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
