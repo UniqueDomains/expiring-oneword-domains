@@ -1,10 +1,10 @@
-# Expiring One-Word Domains (133,569)
+# Expiring One-Word Domains (133,756)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-133%2C569%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-133%2C756%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 These domains are expiring one-word names across 505 TLDs, including examples like zen.ai, bot.app, wow.agency, and van.app. Updated daily. This selection includes 127,897 domains, with a median ask of 61,091, so price discipline and renewal checks matter.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **133,569 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **133,756 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 133,569 domains · **Median ask:** $34,218.66 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 133,756 domains · **Median ask:** $32,968.38 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/expiring`  
 **Best for:** investors, acquisition teams
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status   | ask_price | renewal_price | attractiveness | demand | length | registrar                                                                 |
-| ---------------- | -------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------------- |
-| sanmarino.mx     | expiring | —         | —             | 76             | 97     | 10     | NEUBOX Internet SA de CV                                                  |
-| sanmarino.me     | expiring | —         | —             | 76             | 97     | 10     | Dynadot Inc                                                               |
-| jersey.mx        | expiring | —         | —             | 74             | 96     | 6      | NEUBOX Internet SA de CV                                                  |
-| amazon.social    | expiring | —         | —             | 82             | 92     | 6      | Nom-iq Ltd. dba COM LAUDE                                                 |
-| amazon.futbol    | expiring | —         | —             | 82             | 92     | 6      | Nom-iq Ltd. dba COM LAUDE                                                 |
-| amazon.markets   | expiring | —         | —             | 82             | 91     | 6      | Nom-iq Ltd. dba COM LAUDE                                                 |
-| eBay.space       | expiring | —         | —             | 78             | 91     | 4      | NAME DOT STORE INC                                                        |
-| swift.casa       | expiring | —         | —             | 68             | 84     | 5      | NameCheap, Inc.                                                           |
-| woo.systems      | expiring | —         | —             | 67             | 83     | 3      | NameCheap, Inc.                                                           |
-| prime.immobilien | expiring | —         | —             | 76             | 82     | 5      | Nom-iq Ltd. dba COM LAUDE                                                 |
-| prime.fit        | expiring | —         | —             | 76             | 82     | 5      | Nom-iq Ltd. dba COM LAUDE                                                 |
-| prime.design     | expiring | —         | —             | 76             | 82     | 5      | Nom-iq Ltd. dba COM LAUDE                                                 |
-| prime.cool       | expiring | —         | —             | 76             | 82     | 5      | Nom-iq Ltd. dba COM LAUDE                                                 |
-| normal.rocks     | expiring | —         | —             | 76             | 82     | 6      | Name.com, Inc.                                                            |
-| normal.ag        | expiring | —         | —             | 76             | 82     | 6      | Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA |
-| cat.paris        | expiring | —         | —             | 82             | 80     | 3      | 1API GmbH                                                                 |
-| polo.baby        | expiring | —         | —             | 76             | 80     | 4      | Dynadot LLC                                                               |
-| checkout.click   | expiring | —         | —             | 72             | 78     | 9      | NAMECHEAP                                                                 |
-| mesh.cruises     | expiring | —         | —             | 74             | 77     | 4      | GoDaddy Online Services Cayman Islands Ltd.                               |
-| impact.stream    | expiring | —         | —             | 74             | 74     | 6      | Squarespace Domains II LLC                                                |
+| domain            | status   | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ----------------- | -------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| jesus.codes       | expiring | —         | —             | 126            | 47     | 5      | GoDaddy.com, LLC                                    |
+| soul.voyage       | expiring | —         | —             | 86             | 44     | 4      | IONOS SE                                            |
+| tackle.me         | expiring | —         | —             | 92             | 80     | 6      | InterNetX GmbH                                      |
+| less.world        | expiring | —         | —             | 80             | 30     | 4      | GoDaddy.com, LLC                                    |
+| invited.io        | expiring | —         | —             | 88             | 80     | 7      | humbly, LLC                                         |
+| Bluetooth.reviews | expiring | —         | —             | 92             | 12     | 9      | Go France Domains, LLC                              |
+| retro.pub         | expiring | —         | —             | 94             | 38     | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| tout.us           | expiring | —         | —             | 84             | 84     | 4      | GoDaddy.com, LLC                                    |
+| verb.network      | expiring | —         | —             | 94             | 16     | 4      | Squarespace Domains II LLC                          |
+| http.guitars      | expiring | —         | —             | 80             | 73     | 4      | XYZ.com, LLC                                        |
+| getwell.pro       | expiring | —         | —             | 82             | 11     | 8      | GoDaddy.com, LLC                                    |
+| alpha.shoes       | expiring | —         | —             | 80             | 53     | 5      | GoDaddy.com, LLC                                    |
+| sapphire.promo    | expiring | —         | —             | 92             | 63     | 8      | 1API GmbH                                           |
+| launch.direct     | expiring | —         | —             | 91             | 39     | 6      | Tucows Domains Inc.                                 |
+| advance.company   | expiring | —         | —             | 110            | 33     | 7      | Sav.com, LLC                                        |
+| van.cafe          | expiring | —         | —             | 80             | 31     | 3      | GoDaddy.com, LLC                                    |
+| enjoy.giving      | expiring | —         | —             | 88             | 66     | 5      | Dynadot Inc                                         |
+| enter.land        | expiring | —         | —             | 80             | 31     | 5      | GoDaddy.com, LLC                                    |
+| hundredfold.co    | expiring | —         | —             | 88             | 84     | 11     | Dynadot Inc                                         |
+| farming.me        | expiring | —         | —             | 88             | 76     | 7      | 1API GmbH                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 133,569 live domains                       |
+| 1,000-row public sample | 133,756 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expiring One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expiring One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
