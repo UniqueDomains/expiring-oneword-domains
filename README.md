@@ -1,23 +1,23 @@
-# Expiring One-Word Domains (133,756)
+# Expiring One-Word Domains (135,056)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-133%2C756%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-135%2C056%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-These domains are expiring one-word names across 505 TLDs, including examples like zen.ai, bot.app, wow.agency, and van.app. Updated daily. This selection includes 127,897 domains, with a median ask of 61,091, so price discipline and renewal checks matter.
+This selection covers 135,056 expiring one-word domains spanning 506 TLDs, including .co, .me, .app, .it, and .com. Median ask sits near $35,060. Updated daily, it favors buyers evaluating short, memorable names before renewal windows close.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **133,756 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **135,056 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 133,756 domains · **Median ask:** $32,968.38 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 135,056 domains · **Median ask:** $35,059.66 · **High-demand under $2,500:** 45
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/expiring`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/expiring`
 **Best for:** investors, acquisition teams
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for the exact Unique Domains search repres
 
 ### Files
 
-- `expiring.csv` — public CSV extract (1,000 rows)
-- `expiring.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `expiring.csv`, public CSV extract (1,000 rows)
+- `expiring.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status   | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ----------------- | -------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| jesus.codes       | expiring | —         | —             | 126            | 47     | 5      | GoDaddy.com, LLC                                    |
-| soul.voyage       | expiring | —         | —             | 86             | 44     | 4      | IONOS SE                                            |
-| tackle.me         | expiring | —         | —             | 92             | 80     | 6      | InterNetX GmbH                                      |
-| less.world        | expiring | —         | —             | 80             | 30     | 4      | GoDaddy.com, LLC                                    |
-| invited.io        | expiring | —         | —             | 88             | 80     | 7      | humbly, LLC                                         |
-| Bluetooth.reviews | expiring | —         | —             | 92             | 12     | 9      | Go France Domains, LLC                              |
-| retro.pub         | expiring | —         | —             | 94             | 38     | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| tout.us           | expiring | —         | —             | 84             | 84     | 4      | GoDaddy.com, LLC                                    |
-| verb.network      | expiring | —         | —             | 94             | 16     | 4      | Squarespace Domains II LLC                          |
-| http.guitars      | expiring | —         | —             | 80             | 73     | 4      | XYZ.com, LLC                                        |
-| getwell.pro       | expiring | —         | —             | 82             | 11     | 8      | GoDaddy.com, LLC                                    |
-| alpha.shoes       | expiring | —         | —             | 80             | 53     | 5      | GoDaddy.com, LLC                                    |
-| sapphire.promo    | expiring | —         | —             | 92             | 63     | 8      | 1API GmbH                                           |
-| launch.direct     | expiring | —         | —             | 91             | 39     | 6      | Tucows Domains Inc.                                 |
-| advance.company   | expiring | —         | —             | 110            | 33     | 7      | Sav.com, LLC                                        |
-| van.cafe          | expiring | —         | —             | 80             | 31     | 3      | GoDaddy.com, LLC                                    |
-| enjoy.giving      | expiring | —         | —             | 88             | 66     | 5      | Dynadot Inc                                         |
-| enter.land        | expiring | —         | —             | 80             | 31     | 5      | GoDaddy.com, LLC                                    |
-| hundredfold.co    | expiring | —         | —             | 88             | 84     | 11     | Dynadot Inc                                         |
-| farming.me        | expiring | —         | —             | 88             | 76     | 7      | 1API GmbH                                           |
+| domain        | status   | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ------------- | -------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| diplomacy.me  | expiring | $402.50   | $27.99        | high           | low    | 9      | Dynadot Inc                                 |
+| aaa.house     | expiring | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                            |
+| add.country   | expiring | —         | —             | high           | low    | 3      | NAMECHEAP                                   |
+| ale.cx        | expiring | —         | —             | medium         | low    | 3      | Indian Ocean Territories Telecom            |
+| art.clinic    | expiring | —         | —             | high           | medium | 3      | Hosting Ukraine LLC                         |
+| bag.coach     | expiring | —         | —             | high           | low    | 3      | SafeNames Ltd.                              |
+| BOC.co        | expiring | —         | —             | medium         | high   | 3      | CSC Corporate Domains, Inc.                 |
+| box.institute | expiring | —         | —             | medium         | high   | 3      | GoDaddy.com, LLC                            |
+| boy.movie     | expiring | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC                            |
+| can.asia      | expiring | —         | —             | medium         | high   | 3      | Alibaba Cloud Computing (Beijing) Co., Ltd. |
+| car.io        | expiring | —         | —             | high           | medium | 3      | Dynadot Inc                                 |
+| cod.direct    | expiring | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC                            |
+| cot.tv        | expiring | —         | —             | high           | low    | 3      | eNom, LLC                                   |
+| cup.gmbh      | expiring | —         | —             | high           | low    | 3      | RegistryGate GmbH                           |
+| dad.fm        | expiring | —         | —             | high           | low    | 3      | Instra Corporation Pty Ltd                  |
+| def.dev       | expiring | —         | —             | medium         | high   | 3      | PDR Ltd. d/b/a PublicDomainRegistry.com     |
+| DIY.tax       | expiring | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
+| DNR.co        | expiring | —         | —             | high           | high   | 3      | Hello Internet Corp.                        |
+| dog.ag        | expiring | —         | —             | high           | low    | 3      | NicAg Registrar                             |
+| don.coffee    | expiring | —         | —             | high           | low    | 3      | Squarespace Domains II LLC                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 133,756 live domains                       |
+| 1,000-row public sample | 135,056 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 45 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of expiring one-word domains. The range is broad, spanning 505 TLDs and examples from zen.ai and bot.app to wow.agency and bot.accountants. That mix creates both opportunity and uneven quality. For investors, the key questions are entry price, renewal burden, and whether the extension supports resale demand. For founders, the decision is usually simpler: is the name memorable, easy to say, and credible on its TLD. With a median ask of 61,091, these domains should be compared carefully on brand strength, extension fit, and downside risk before making a shortlist.
+These are one-word domain names currently in their expiring window, meaning renewal has lapsed or is about to. The set spans 506 TLDs — from mainstream options like .com, .net, and .org to newer extensions such as .app, .me, and .co. Sample names like colors.city, art.farm, and lunch.chat show the range: short, dictionary-style words paired with varied endings. Median ask across the set is roughly $35,060, though pricing varies widely by demand tier and TLD.
 
-- Check whether the TLD strengthens or weakens the word
-- Compare ask price against likely resale or brand use
-- Watch renewal risk on less common or niche extensions
-- Favor names that are clear, memorable, and easy to say
+- 135,056 expiring one-word domains, updated daily
+- 506 TLDs represented, led by .co, .me, .app, .it
+- Median ask near $35,060; pricing varies by demand tier
+- Most names fall in low-demand tier; ~5% rank in top 15%
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expiring One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expiring One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
