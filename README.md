@@ -1,10 +1,10 @@
-# Expiring One-Word Domains (8,579)
+# Expiring One-Word Domains (9,213)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C579%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C213%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 135,056 expiring one-word domains spanning 506 TLDs, including .co, .me, .app, .it, and .com. Median ask sits near $35,060. Updated daily, it favors buyers evaluating short, memorable names before renewal windows close.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,579 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,213 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 8,579 domains · **Median ask:** $22,592.03 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 9,213 domains · **Median ask:** $32,629.06 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-19
 **Canonical page:** `https://unique.domains/domains/expiring`
 **Best for:** investors, acquisition teams
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status   | ask_price   | renewal_price | attractiveness | demand | length | registrar                                           |
-| --------------- | -------- | ----------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| just.gold       | expiring | —           | —             | high           | medium | 4      | DNSPod, Inc.                                        |
-| christmas.vegas | expiring | —           | —             | high           | low    | 9      | Porkbun LLC                                         |
-| damn.cloud      | expiring | —           | —             | high           | low    | 4      | Spaceship, Inc.                                     |
-| sorry.co        | expiring | —           | —             | high           | low    | 5      | Dynadot Inc                                         |
-| damn.solutions  | expiring | —           | —             | high           | low    | 4      | GoDaddy.com, LLC                                    |
-| beauty.top      | expiring | —           | —             | high           | low    | 6      | 阿里云计算有限公司                                           |
-| yes.solutions   | expiring | —           | —             | high           | medium | 3      | GoDaddy.com, LLC                                    |
-| one.camp        | expiring | —           | —             | high           | medium | 3      | Dynadot Inc                                         |
-| nothing.wtf     | expiring | —           | —             | high           | low    | 7      | Sav.com, LLC - 27                                   |
-| clean.id        | expiring | —           | —             | high           | low    | 5      | PT Jagat Informasi Solusi (int)                     |
-| off.io          | expiring | —           | —             | high           | low    | 3      | GoDaddy.com, LLC                                    |
-| simple.expert   | expiring | —           | —             | high           | medium | 6      | IONOS SE                                            |
-| what.ac         | expiring | —           | —             | high           | low    | 4      | NameCheap, Inc.                                     |
-| away.solutions  | expiring | —           | —             | high           | low    | 4      | Sav.com, LLC                                        |
-| soft.wtf        | expiring | —           | —             | high           | low    | 4      | Sav.com, LLC - 48                                   |
-| soft.zone       | expiring | —           | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| age.onl         | expiring | $569.25     | $569.25       | medium         | low    | 3      | Dynadot Inc                                         |
-| room.co         | expiring | $172,371.20 | $48.99        | medium         | low    | 4      | GoDaddy.com, LLC                                    |
-| abaya.online    | expiring | $78.12      | $312.50       | low            | low    | 5      | GoDaddy.com, LLC                                    |
-| affix.store     | expiring | $2.99       | $75.99        | medium         | low    | 5      | NameCheap, Inc.                                     |
+| domain          | status   | ask_price   | renewal_price | attractiveness | demand | length | registrar                                    |
+| --------------- | -------- | ----------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| out.life        | expiring | —           | —             | high           | low    | 3      | Spaceship, Inc.                              |
+| just.gold       | expiring | —           | —             | high           | medium | 4      | DNSPod, Inc.                                 |
+| christmas.vegas | expiring | —           | —             | high           | low    | 9      | Porkbun LLC                                  |
+| great.delivery  | expiring | —           | —             | high           | low    | 5      | NameCheap, Inc.                              |
+| sorry.me        | expiring | —           | —             | high           | low    | 5      | Dynadot Inc                                  |
+| sorry.co        | expiring | —           | —             | high           | low    | 5      | Dynadot Inc                                  |
+| great.quest     | expiring | —           | —             | high           | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
+| damn.la         | expiring | —           | —             | high           | low    | 4      | LA Domain Names                              |
+| damn.solutions  | expiring | —           | —             | high           | low    | 4      | GoDaddy.com, LLC                             |
+| beauty.top      | expiring | —           | —             | high           | low    | 6      | 阿里云计算有限公司                                    |
+| yes.solutions   | expiring | —           | —             | high           | medium | 3      | GoDaddy.com, LLC                             |
+| age.onl         | expiring | $569.25     | $569.25       | medium         | low    | 3      | Dynadot Inc                                  |
+| room.co         | expiring | $172,371.20 | $48.99        | medium         | low    | 4      | GoDaddy.com, LLC                             |
+| abaya.online    | expiring | $78.12      | $312.50       | low            | low    | 5      | GoDaddy.com, LLC                             |
+| affix.store     | expiring | $2.99       | $75.99        | medium         | low    | 5      | NameCheap, Inc.                              |
+| bread.me        | expiring | $34,500     | $27.99        | medium         | low    | 5      | Dynadot Inc                                  |
+| stove.info      | expiring | $11,359.70  | $35.99        | medium         | low    | 5      | Epik LLC                                     |
+| tonic.me        | expiring | $5,166.79   | —             | medium         | low    | 5      | GoDaddy.com, LLC                             |
+| access.cloud    | expiring | $6,250      | $6,250        | medium         | medium | 6      | GoDaddy                                      |
+| access.it       | expiring | $7,366.90   | $25.99        | medium         | medium | 6      | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 8,579 live domains                         |
+| 1,000-row public sample | 9,213 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expiring One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expiring One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
