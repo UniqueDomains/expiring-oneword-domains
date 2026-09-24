@@ -16,7 +16,7 @@ This selection covers 135,056 expiring one-word domains spanning 506 TLDs, inclu
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,637 domains · **Median ask:** $64,673.84 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/expiring`
 **Best for:** investors, acquisition teams
 
@@ -64,17 +64,16 @@ print(df.head())
 
 | domain            | status   | ask_price  | renewal_price | attractiveness | demand | length | registrar                                          |
 | ----------------- | -------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
-| aery.xyz          | expiring | $3,793.85  | $20.99        | high           | low    | 4      | Spaceship, Inc.                                    |
 | food.discount     | expiring | $41.25     | $41.25        | medium         | low    | 4      | Dynadot Inc                                        |
+| main.la           | expiring | $1,776.75  | —             | medium         | low    | 4      | VIPDomains.LA  Founders Program                    |
 | abaya.online      | expiring | $78.12     | $312.50       | low            | low    | 5      | GoDaddy.com, LLC                                   |
-| affix.store       | expiring | $2.99      | $75.99        | medium         | low    | 5      | NameCheap, Inc.                                    |
 | bread.me          | expiring | $34,500    | $27.99        | medium         | low    | 5      | Dynadot Inc                                        |
 | grand.mx          | expiring | $48.98     | —             | low            | low    | 5      | Namecheap, Inc.                                    |
-| access.cloud      | expiring | $6,250     | $6,250        | medium         | low    | 6      | GoDaddy                                            |
 | access.it         | expiring | $7,366.90  | $25.99        | medium         | low    | 6      | name.com                                           |
 | adored.online     | expiring | $4,035.35  | $46.99        | medium         | low    | 6      | GoDaddy.com, LLC                                   |
 | around.fyi        | expiring | $18.75     | $18.75        | medium         | low    | 6      | Cloudflare, Inc                                    |
 | cipher.foundation | expiring | $5.99      | $37.99        | medium         | low    | 6      | Porkbun LLC                                        |
+| launch.la         | expiring | $1,776.75  | —             | medium         | low    | 6      | VIPDomains.LA  Founders Program                    |
 | clinics.me        | expiring | $172.50    | $27.99        | low            | low    | 7      | Hosting Concepts B.V. d/b/a Registrar.eu           |
 | rolling.me        | expiring | $343.85    | $27.99        | medium         | low    | 7      | Sav.com, LLC - 26                                  |
 | absolute.me       | expiring | $4,023.85  | $26.99        | medium         | low    | 8      | GoDaddy.com, LLC                                   |
@@ -84,6 +83,7 @@ print(df.head())
 | articulate.pro    | expiring | $400.20    | $400.20       | medium         | low    | 10     | Sav.com, LLC - 11                                  |
 | spacecraft.co     | expiring | $41,398.85 | $48.99        | medium         | low    | 10     | GoDaddy.com, LLC                                   |
 | age.ca            | expiring | —          | —             | low            | low    | 3      | Namespro Solutions Inc.                            |
+| age.show          | expiring | —          | —             | medium         | low    | 3      | Sav.com, LLC - 34                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expiring One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expiring One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
