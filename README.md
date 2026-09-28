@@ -1,10 +1,10 @@
-# Expiring One-Word Domains (38,151)
+# Expiring One-Word Domains (37,715)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-38%2C151%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-37%2C715%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 135,056 expiring one-word domains spanning 506 TLDs, including .co, .me, .app, .it, and .com. Median ask sits near $35,060. Updated daily, it favors buyers evaluating short, memorable names before renewal windows close.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **38,151 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **37,715 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 38,151 domains · **Median ask:** $41,652.60 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 37,715 domains · **Median ask:** $41,900.25 · **High-demand under $2,500:** 4
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/expiring`
@@ -66,6 +66,7 @@ print(df.head())
 | ------------ | -------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | cypher.best  | expiring | $1,150    | $29.99        | high           | medium | 6      | NameSilo, LLC                                             |
 | hourly.info  | expiring | $2,369    | —             | high           | low    | 6      | 1API GmbH                                                 |
+| acm.black    | expiring | —         | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)   |
 | ads.cx       | expiring | —         | —             | high           | medium | 3      | West263 International Limited                             |
 | age.feedback | expiring | —         | —             | high           | low    | 3      | Tucows Registry Services                                  |
 | aid.homes    | expiring | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
@@ -83,7 +84,6 @@ print(df.head())
 | ccp.services | expiring | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
 | dis.feedback | expiring | —         | —             | high           | low    | 3      | Tucows Registry Services                                  |
 | dog.tools    | expiring | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
-| eve.feedback | expiring | —         | —             | high           | medium | 3      | Tucows Registry Services                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 38,151 live domains                        |
+| 1,000-row public sample | 37,715 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
