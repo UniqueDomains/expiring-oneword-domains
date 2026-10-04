@@ -25,7 +25,7 @@ This selection covers 135,056 expiring one-word domains spanning 506 TLDs, inclu
 <p align="center">
   <a href="https://unique.domains/domains/expiring?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./expiring.csv">CSV</a> / <a href="./expiring.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status   | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------ | -------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| cypher.best  | expiring | $1,150    | $29.99        | high           | medium | 6      | NameSilo, LLC                                             |
-| aladdin.nyc  | expiring | $9,476    | —             | high           | medium | 7      | GoDaddy.com, LLC                                          |
-| provision.my | expiring | $59,225   | —             | high           | low    | 9      | Spaceship, Inc.                                           |
-| acm.black    | expiring | —         | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)   |
-| ads.cx       | expiring | —         | —             | high           | medium | 3      | West263 International Limited                             |
-| ams.feedback | expiring | —         | —             | high           | low    | 3      | Tucows Registry Services                                  |
-| and.xyz      | expiring | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
-| any.bingo    | expiring | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
-| any.express  | expiring | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| ape.blue     | expiring | —         | —             | high           | low    | 3      | Unstoppable Domains Inc                                   |
-| art.voyage   | expiring | —         | —             | high           | medium | 3      | Dynadot Inc                                               |
-| avo.insure   | expiring | —         | —             | high           | low    | 3      | Domain.com - Network Solutions, LLC                       |
-| awl.systems  | expiring | —         | —             | high           | low    | 3      | NameCheap, Inc.                                           |
-| bcg.gallery  | expiring | —         | —             | high           | low    | 3      | Squarespace Domains II LLC                                |
-| bug.vc       | expiring | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
-| cda.cheap    | expiring | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
-| ceo.chat     | expiring | —         | —             | high           | low    | 3      | NameCheap, Inc.                                           |
-| cns.xyz      | expiring | —         | —             | medium         | low    | 3      | Squarespace Domains II LLC                                |
-| csr.id       | expiring | —         | —             | high           | low    | 3      | PT Digital Registra Indonesia                             |
-| cte.xyz      | expiring | —         | —             | high           | low    | 3      | Virtualia LLC                                             |
+| domain       | status   | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ------------ | -------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| cypher.best  | expiring | $1,150    | $29.99        | high           | low    | 6      | NameSilo, LLC                                           |
+| aladdin.nyc  | expiring | $9,476    | —             | high           | medium | 7      | GoDaddy.com, LLC                                        |
+| provision.my | expiring | $59,225   | —             | high           | low    | 9      | Spaceship, Inc.                                         |
+| acm.black    | expiring | —         | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| ads.cx       | expiring | —         | —             | high           | medium | 3      | West263 International Limited                           |
+| ams.feedback | expiring | —         | —             | high           | low    | 3      | Tucows Registry Services                                |
+| and.xyz      | expiring | —         | —             | high           | medium | 3      | Spaceship, Inc.                                         |
+| any.bingo    | expiring | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                        |
+| ape.blue     | expiring | —         | —             | high           | low    | 3      | Unstoppable Domains Inc                                 |
+| art.voyage   | expiring | —         | —             | high           | medium | 3      | Dynadot Inc                                             |
+| avo.insure   | expiring | —         | —             | high           | low    | 3      | Domain.com - Network Solutions, LLC                     |
+| awl.systems  | expiring | —         | —             | high           | low    | 3      | NameCheap, Inc.                                         |
+| bcg.gallery  | expiring | —         | —             | high           | low    | 3      | Squarespace Domains II LLC                              |
+| bug.vc       | expiring | —         | —             | high           | low    | 3      | Dynadot Inc                                             |
+| cal.host     | expiring | —         | —             | high           | low    | 3      | Marcaria International LLC                              |
+| cda.cheap    | expiring | —         | —             | high           | medium | 3      | Spaceship, Inc.                                         |
+| ceo.chat     | expiring | —         | —             | high           | low    | 3      | NameCheap, Inc.                                         |
+| cns.xyz      | expiring | —         | —             | medium         | low    | 3      | Squarespace Domains II LLC                              |
+| csr.id       | expiring | —         | —             | high           | low    | 3      | PT Digital Registra Indonesia                           |
+| cte.xyz      | expiring | —         | —             | high           | low    | 3      | Virtualia LLC                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/expiring?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
