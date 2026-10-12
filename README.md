@@ -82,7 +82,7 @@ print(df.head())
 | ceo.chat      | expiring | —         | —             | high           | low    | 3      | NameCheap, Inc.                                         |
 | cga.dev       | expiring | —         | —             | high           | low    | 3      | Squarespace Domains II LLC.                             |
 | cia.cc        | expiring | —         | —             | high           | medium | 3      | eName Technology Co., Ltd.                              |
-| cns.xyz       | expiring | —         | —             | medium         | low    | 3      | Squarespace Domains II LLC                              |
+| cns.xyz       | expiring | —         | —             | high           | low    | 3      | Squarespace Domains II LLC                              |
 | crs.contact   | expiring | —         | —             | high           | low    | 3      | Squarespace Domains II LLC                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
