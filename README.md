@@ -16,7 +16,7 @@ This selection covers 135,056 expiring one-word domains spanning 506 TLDs, inclu
 
 **Public extract:** 1,000 rows · **Live catalog:** 57,273 domains · **Median ask:** $39,165.55 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-10-23
+**Last updated:** 2026-10-24
 **Canonical page:** `https://unique.domains/domains/expiring`
 **Best for:** investors, acquisition teams
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expiring One-Word Domains*. Version 2026-10-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expiring One-Word Domains*. Version 2026-10-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
