@@ -1,10 +1,10 @@
-# Expiring One-Word Domains (51,792)
+# Expiring One-Word Domains (52,053)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-51%2C792%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-52%2C053%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 135,056 expiring one-word domains spanning 506 TLDs, including .co, .me, .app, .it, and .com. Median ask sits near $35,060. Updated daily, it favors buyers evaluating short, memorable names before renewal windows close.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **51,792 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **52,053 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 51,792 domains · **Median ask:** $34,394.58 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 52,053 domains · **Median ask:** $36,023.50 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-11-01
+**Last updated:** 2026-11-02
 **Canonical page:** `https://unique.domains/domains/expiring`
 **Best for:** investors, acquisition teams
 
@@ -67,8 +67,8 @@ print(df.head())
 | provision.my  | expiring | $59,225   | —             | high           | low    | 9      | Spaceship, Inc.                                         |
 | acm.black     | expiring | —         | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | add.global    | expiring | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
+| aig.baby      | expiring | —         | —             | high           | medium | 3      | Dynadot Inc                                             |
 | all.coach     | expiring | —         | —             | high           | medium | 3      | Sav.com, LLC - 2                                        |
-| any.bingo     | expiring | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                        |
 | ape.blue      | expiring | —         | —             | high           | low    | 3      | Unstoppable Domains Inc                                 |
 | arc.build     | expiring | —         | —             | high           | medium | 3      | Cloudflare, Inc.                                        |
 | avo.insure    | expiring | —         | —             | high           | low    | 3      | Domain.com - Network Solutions, LLC                     |
@@ -76,14 +76,14 @@ print(df.head())
 | awl.systems   | expiring | —         | —             | high           | low    | 3      | NameCheap, Inc.                                         |
 | bag.marketing | expiring | —         | —             | high           | low    | 3      | Dynadot Inc                                             |
 | bay.financial | expiring | —         | —             | high           | low    | 3      | Porkbun LLC                                             |
-| bcg.gallery   | expiring | —         | —             | high           | low    | 3      | Squarespace Domains II LLC                              |
 | bet.solutions | expiring | —         | —             | high           | low    | 3      | Dynadot Inc                                             |
-| bns.tech      | expiring | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd.     |
 | bow.plus      | expiring | —         | —             | high           | low    | 3      | Spaceship, Inc.                                         |
 | bug.vc        | expiring | —         | —             | high           | medium | 3      | Dynadot Inc                                             |
 | bum.studio    | expiring | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
 | ceo.chat      | expiring | —         | —             | high           | low    | 3      | NameCheap, Inc.                                         |
 | cia.cc        | expiring | —         | —             | high           | low    | 3      | eName Technology Co., Ltd.                              |
+| cns.xyz       | expiring | —         | —             | high           | low    | 3      | Squarespace Domains II LLC                              |
+| cpp.quest     | expiring | —         | —             | high           | low    | 3      | Spaceship, Inc.                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 51,792 live domains                                  |
+| 1,000-row public sample | 52,053 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
 | Basic exported fields   | 2 high-demand names under $2,500                     |
 | No persistence          | Radar, saved search, and alerts                      |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expiring One-Word Domains*. Version 2026-11-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expiring One-Word Domains*. Version 2026-11-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
