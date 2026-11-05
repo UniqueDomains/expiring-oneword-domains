@@ -16,7 +16,7 @@ This selection covers 135,056 expiring one-word domains spanning 506 TLDs, inclu
 
 **Public extract:** 1,000 rows · **Live catalog:** 52,053 domains · **Median ask:** $36,023.50 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-11-02
+**Last updated:** 2026-11-05
 **Canonical page:** `https://unique.domains/domains/expiring`
 **Best for:** investors, acquisition teams
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain        | status   | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
 | ------------- | -------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| provision.my  | expiring | $59,225   | —             | high           | low    | 9      | Spaceship, Inc.                                         |
-| acm.black     | expiring | —         | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| add.global    | expiring | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
-| aig.baby      | expiring | —         | —             | high           | medium | 3      | Dynadot Inc                                             |
-| all.coach     | expiring | —         | —             | high           | medium | 3      | Sav.com, LLC - 2                                        |
-| ape.blue      | expiring | —         | —             | high           | low    | 3      | Unstoppable Domains Inc                                 |
-| arc.build     | expiring | —         | —             | high           | medium | 3      | Cloudflare, Inc.                                        |
-| avo.insure    | expiring | —         | —             | high           | low    | 3      | Domain.com - Network Solutions, LLC                     |
-| awe.info      | expiring | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
-| awl.systems   | expiring | —         | —             | high           | low    | 3      | NameCheap, Inc.                                         |
-| bag.marketing | expiring | —         | —             | high           | low    | 3      | Dynadot Inc                                             |
-| bay.financial | expiring | —         | —             | high           | low    | 3      | Porkbun LLC                                             |
-| bet.solutions | expiring | —         | —             | high           | low    | 3      | Dynadot Inc                                             |
-| bow.plus      | expiring | —         | —             | high           | low    | 3      | Spaceship, Inc.                                         |
-| bug.vc        | expiring | —         | —             | high           | medium | 3      | Dynadot Inc                                             |
-| bum.studio    | expiring | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
-| ceo.chat      | expiring | —         | —             | high           | low    | 3      | NameCheap, Inc.                                         |
-| cia.cc        | expiring | —         | —             | high           | low    | 3      | eName Technology Co., Ltd.                              |
-| cns.xyz       | expiring | —         | —             | high           | low    | 3      | Squarespace Domains II LLC                              |
-| cpp.quest     | expiring | —         | —             | high           | low    | 3      | Spaceship, Inc.                                         |
+| provision.my  | expiring | $59,225   | —             | medium         | low    | 9      | Spaceship, Inc.                                         |
+| acm.black     | expiring | —         | —             | low            | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| add.global    | expiring | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC                                        |
+| aig.baby      | expiring | —         | —             | low            | medium | 3      | Dynadot Inc                                             |
+| all.coach     | expiring | —         | —             | medium         | medium | 3      | Sav.com, LLC - 2                                        |
+| arc.build     | expiring | —         | —             | medium         | medium | 3      | Cloudflare, Inc.                                        |
+| awe.info      | expiring | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC                                        |
+| awl.systems   | expiring | —         | —             | low            | low    | 3      | NameCheap, Inc.                                         |
+| bag.marketing | expiring | —         | —             | low            | low    | 3      | Dynadot Inc                                             |
+| bay.financial | expiring | —         | —             | low            | low    | 3      | Porkbun LLC                                             |
+| bet.solutions | expiring | —         | —             | low            | low    | 3      | Dynadot Inc                                             |
+| bum.studio    | expiring | —         | —             | low            | low    | 3      | GoDaddy.com, LLC                                        |
+| ceo.chat      | expiring | —         | —             | low            | low    | 3      | NameCheap, Inc.                                         |
+| cia.cc        | expiring | —         | —             | low            | low    | 3      | eName Technology Co., Ltd.                              |
+| cns.xyz       | expiring | —         | —             | low            | low    | 3      | Squarespace Domains II LLC                              |
+| cpp.quest     | expiring | —         | —             | low            | low    | 3      | Spaceship, Inc.                                         |
+| crs.contact   | expiring | —         | —             | low            | low    | 3      | Squarespace Domains II LLC                              |
+| cte.xyz       | expiring | —         | —             | low            | low    | 3      | Virtualia LLC                                           |
+| dip.app       | expiring | —         | —             | medium         | low    | 3      | Namecheap Inc.                                          |
+| dot.lol       | expiring | —         | —             | medium         | high   | 3      | Dynadot Inc                                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expiring One-Word Domains*. Version 2026-11-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expiring One-Word Domains*. Version 2026-11-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
