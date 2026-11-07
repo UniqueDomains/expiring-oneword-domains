@@ -1,6 +1,6 @@
-# Expiring One-Word Domains (49,555)
+# Expiring One-Word Domains (49,577)
 
-49,555 names in this list today, refreshed every night.
+49,577 names in this list today, refreshed every night.
 
 Live page: [unique.domains/domains/expiring](https://unique.domains/domains/expiring?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=top_page)
 
@@ -31,6 +31,7 @@ The first 20 rows of the file, in the file's order.
 | expertly.chat    | expiring | —              | —             | high           | low    | 8      |
 | synthetic.care   | expiring | —              | —             | high           | low    | 9      |
 | phr.homes        | expiring | —              | —             | high           | low    | 3      |
+| overkill.zone    | expiring | —              | —             | medium         | low    | 8      |
 | mode.discount    | expiring | —              | —             | high           | low    | 4      |
 | shiny.partners   | expiring | —              | —             | high           | medium | 5      |
 | remote.autos     | expiring | $684.64        | —             | high           | medium | 6      |
@@ -43,7 +44,6 @@ The first 20 rows of the file, in the file's order.
 | ultimatum.io     | expiring | —              | —             | high           | low    | 9      |
 | address.im       | expiring | —              | —             | high           | low    | 7      |
 | chestnut.life    | expiring | —              | —             | high           | low    | 8      |
-| acetate.pro      | expiring | —              | —             | high           | low    | 7      |
 
 ## What is in the data
 
@@ -62,7 +62,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 49,555 names in the live list today.
+- The files hold 1,000 rows of the 49,577 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 
