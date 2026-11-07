@@ -1,6 +1,6 @@
-# Expiring One-Word Domains (52,053)
+# Expiring One-Word Domains (49,555)
 
-52,053 names in this list today, refreshed every night.
+49,555 names in this list today, refreshed every night.
 
 Live page: [unique.domains/domains/expiring](https://unique.domains/domains/expiring?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=top_page)
 
@@ -62,7 +62,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 52,053 names in the live list today.
+- The files hold 1,000 rows of the 49,555 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 
