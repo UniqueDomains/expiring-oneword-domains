@@ -28,7 +28,6 @@ The first 20 rows of the file, in the file's order.
 | service.poker    | expiring | —              | —             | high           | high   | 7      |
 | trump.clothing   | expiring | —              | —             | high           | low    | 5      |
 | spanking.us      | expiring | —              | —             | high           | low    | 8      |
-| expertly.chat    | expiring | —              | —             | high           | low    | 8      |
 | synthetic.care   | expiring | —              | —             | high           | low    | 9      |
 | phr.homes        | expiring | —              | —             | high           | low    | 3      |
 | overkill.zone    | expiring | —              | —             | medium         | low    | 8      |
@@ -44,6 +43,7 @@ The first 20 rows of the file, in the file's order.
 | ultimatum.io     | expiring | —              | —             | high           | low    | 9      |
 | address.im       | expiring | —              | —             | high           | low    | 7      |
 | chestnut.life    | expiring | —              | —             | high           | low    | 8      |
+| acetate.pro      | expiring | —              | —             | high           | low    | 7      |
 
 ## What is in the data
 
