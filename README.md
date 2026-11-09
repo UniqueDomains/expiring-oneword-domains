@@ -1,6 +1,6 @@
-# Expiring One-Word Domains (49,577)
+# Expiring One-Word Domains (52,067)
 
-49,577 names in this list today, refreshed every night.
+52,067 names in this list today, refreshed every night.
 
 Live page: [unique.domains/domains/expiring](https://unique.domains/domains/expiring?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=top_page)
 
@@ -22,28 +22,28 @@ print(df.head())
 
 The first 20 rows of the file, in the file's order.
 
-| domain           | status   | purchase_price | renewal_price | attractiveness | demand | length |
-| ---------------- | -------- | -------------- | ------------- | -------------- | ------ | ------ |
-| spotlight.yachts | expiring | —              | —             | high           | high   | 9      |
-| service.poker    | expiring | —              | —             | high           | high   | 7      |
-| trump.clothing   | expiring | —              | —             | high           | low    | 5      |
-| spanking.us      | expiring | —              | —             | high           | low    | 8      |
-| synthetic.care   | expiring | —              | —             | high           | low    | 9      |
-| phr.homes        | expiring | —              | —             | high           | low    | 3      |
-| overkill.zone    | expiring | —              | —             | medium         | low    | 8      |
-| mode.discount    | expiring | —              | —             | high           | low    | 4      |
-| shiny.partners   | expiring | —              | —             | high           | medium | 5      |
-| remote.autos     | expiring | $684.64        | —             | high           | medium | 6      |
-| astral.rent      | expiring | —              | —             | high           | low    | 6      |
-| arcus.gay        | expiring | —              | —             | high           | low    | 5      |
-| oceans.design    | expiring | —              | —             | high           | low    | 6      |
-| all.coach        | expiring | —              | —             | high           | medium | 3      |
-| scully.app       | expiring | —              | —             | high           | low    | 6      |
-| blithe.io        | expiring | —              | —             | high           | low    | 6      |
-| ultimatum.io     | expiring | —              | —             | high           | low    | 9      |
-| address.im       | expiring | —              | —             | high           | low    | 7      |
-| chestnut.life    | expiring | —              | —             | high           | low    | 8      |
-| acetate.pro      | expiring | —              | —             | high           | low    | 7      |
+| domain            | status   | purchase_price | renewal_price | attractiveness | demand | length |
+| ----------------- | -------- | -------------- | ------------- | -------------- | ------ | ------ |
+| spotlight.yachts  | expiring | —              | —             | high           | high   | 9      |
+| service.poker     | expiring | —              | —             | high           | high   | 7      |
+| trump.clothing    | expiring | —              | —             | high           | low    | 5      |
+| spanking.us       | expiring | —              | —             | high           | low    | 8      |
+| signature.reviews | expiring | —              | —             | high           | low    | 9      |
+| basics.news       | expiring | —              | —             | high           | low    | 6      |
+| synthetic.care    | expiring | —              | —             | high           | low    | 9      |
+| sobremesa.us      | expiring | —              | —             | high           | medium | 9      |
+| phr.homes         | expiring | —              | —             | high           | low    | 3      |
+| overkill.zone     | expiring | —              | —             | medium         | low    | 8      |
+| mode.discount     | expiring | —              | —             | high           | low    | 4      |
+| shiny.partners    | expiring | —              | —             | high           | medium | 5      |
+| remote.autos      | expiring | $684.64        | —             | high           | medium | 6      |
+| astral.rent       | expiring | —              | —             | high           | low    | 6      |
+| arcus.gay         | expiring | —              | —             | high           | low    | 5      |
+| all.coach         | expiring | —              | —             | high           | medium | 3      |
+| scully.app        | expiring | —              | —             | high           | low    | 6      |
+| blithe.io         | expiring | —              | —             | high           | low    | 6      |
+| ultimatum.io      | expiring | —              | —             | high           | low    | 9      |
+| address.im        | expiring | —              | —             | high           | low    | 7      |
 
 ## What is in the data
 
@@ -62,7 +62,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 49,577 names in the live list today.
+- The files hold 1,000 rows of the 52,067 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 
