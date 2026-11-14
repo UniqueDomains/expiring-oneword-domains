@@ -27,6 +27,7 @@ The first 20 rows of the file, in the file's order.
 | domain            | status   | purchase_price | renewal_price | attractiveness | demand | length |
 | ----------------- | -------- | -------------- | ------------- | -------------- | ------ | ------ |
 | spotlight.yachts  | expiring | —              | —             | high           | high   | 9      |
+| internet.shoes    | expiring | —              | —             | high           | high   | 8      |
 | trump.clothing    | expiring | —              | —             | high           | low    | 5      |
 | spanking.us       | expiring | —              | —             | high           | low    | 8      |
 | signature.reviews | expiring | —              | —             | high           | low    | 9      |
@@ -45,7 +46,6 @@ The first 20 rows of the file, in the file's order.
 | scully.app        | expiring | —              | —             | high           | low    | 6      |
 | blithe.io         | expiring | —              | —             | high           | low    | 6      |
 | ultimatum.io      | expiring | —              | —             | high           | low    | 9      |
-| foil.solutions    | expiring | —              | —             | high           | low    | 4      |
 
 ## What is in the data
 
