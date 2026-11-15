@@ -1,8 +1,8 @@
-# Expiring One-Word Domains (52,244)
+# Expiring One-Word Domains (51,640)
 
-1,000 one-word domain names close to their expiry date, refreshed every night, each with the day its registration ends. 52,244 names are in [the list](https://unique.domains/domains/expiring) today.
+1,000 one-word domain names close to their expiry date, refreshed every night, each with the day its registration ends. 51,640 names are in [the list](https://unique.domains/domains/expiring) today.
 
-If the owner does not renew, the word comes back on that ending, once. Drop catchers and investors follow these dates every day. Each status is the latest on record for the name, so [check a name](https://unique.domains/availability) before you act on it.
+If the owner does not renew, the word comes back on that ending, once. Drop catchers and investors follow these dates every day. A name may have been renewed, so [check a name](https://unique.domains/availability) before you act on it.
 
 Live page: [unique.domains/domains/expiring](https://unique.domains/domains/expiring?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=top_page)
 
@@ -41,11 +41,11 @@ The first 20 rows of the file, in the file's order.
 | remote.autos      | expiring | $684.64        | —             | high           | medium | 6      |
 | astral.rent       | expiring | —              | —             | high           | low    | 6      |
 | arcus.gay         | expiring | —              | —             | high           | low    | 5      |
+| ferrous.beer      | expiring | —              | —             | high           | low    | 7      |
 | jacks.sh          | expiring | —              | —             | high           | low    | 5      |
 | all.coach         | expiring | —              | —             | high           | medium | 3      |
 | scully.app        | expiring | —              | —             | high           | low    | 6      |
 | blithe.io         | expiring | —              | —             | high           | low    | 6      |
-| ultimatum.io      | expiring | —              | —             | high           | low    | 9      |
 
 ## What is in the data
 
@@ -64,16 +64,15 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 52,244 names in the live list today.
+- The files hold 1,000 rows of the 51,640 names in the live list today.
 - Every row is a one-word domain name.
-- Status and prices are the latest on record for each name, not a reading taken on the day of the rebuild.
+- Check a name before you act on it: a status or a price can change.
 
 More in [METHODOLOGY.md](./METHODOLOGY.md).
 
 ## Update policy
 
 - The files are rebuilt every night from the same export.
-- The snapshot is the day of the rebuild; each row's status is the latest on record for the name, not a reading of that day.
 - The files hold the public extract, not the whole live list.
 
 ## How to cite
@@ -105,7 +104,7 @@ Every ending Unique.domains tracks: [unique.domains/tld](https://unique.domains/
 
 ## About Unique.domains
 
-[Unique.domains](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=about) tracks one-word domain names across the endings people build on: which are free to register, what they cost to hold and what names of each ending sell for. The datasets in this organization are its public extracts, refreshed every night.
+[Unique.domains](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=about) tracks one-word domain names across the endings people build on: which are free to register, what they cost to hold and what names of each ending sell for. The datasets in this organization are its public extracts.
 
 From code: the [Node.js SDK and CLI](https://github.com/UniqueDomains/nodejs) (`npm install @uniquedomains/sdk`), the [Python client](https://github.com/UniqueDomains/python) (`pip install uniquedomains`) and the [MCP server](https://github.com/UniqueDomains/mcp-server) for AI assistants, hosted at `https://mcp.unique.domains/mcp`.
 
