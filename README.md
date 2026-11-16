@@ -28,12 +28,13 @@ The first 20 rows of the file, in the file's order.
 | ----------------- | -------- | -------------- | ------------- | -------------- | ------ | ------ |
 | spotlight.yachts  | expiring | —              | —             | high           | high   | 9      |
 | internet.shoes    | expiring | —              | —             | high           | high   | 8      |
-| trump.clothing    | expiring | —              | —             | high           | low    | 5      |
 | spanking.us       | expiring | —              | —             | high           | low    | 8      |
 | signature.reviews | expiring | —              | —             | high           | low    | 9      |
 | basics.news       | expiring | —              | —             | high           | low    | 6      |
 | synthetic.care    | expiring | —              | —             | high           | low    | 9      |
 | onto.email        | expiring | —              | —             | high           | low    | 4      |
+| shipped.co        | expiring | —              | —             | high           | low    | 7      |
+| rich.ca           | expiring | —              | —             | high           | high   | 4      |
 | sobremesa.us      | expiring | —              | —             | high           | medium | 9      |
 | phr.homes         | expiring | —              | —             | high           | low    | 3      |
 | mode.discount     | expiring | —              | —             | high           | low    | 4      |
@@ -42,10 +43,9 @@ The first 20 rows of the file, in the file's order.
 | astral.rent       | expiring | —              | —             | high           | low    | 6      |
 | arcus.gay         | expiring | —              | —             | high           | low    | 5      |
 | ferrous.beer      | expiring | —              | —             | high           | low    | 7      |
+| made.uk           | expiring | —              | —             | high           | low    | 4      |
 | jacks.sh          | expiring | —              | —             | high           | low    | 5      |
 | all.coach         | expiring | —              | —             | high           | medium | 3      |
-| scully.app        | expiring | —              | —             | high           | low    | 6      |
-| blithe.io         | expiring | —              | —             | high           | low    | 6      |
 
 ## What is in the data
 
