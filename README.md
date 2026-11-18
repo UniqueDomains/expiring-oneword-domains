@@ -1,6 +1,6 @@
-# Expiring One-Word Domains (51,640)
+# Expiring One-Word Domains (52,200)
 
-1,000 one-word domain names close to their expiry date, refreshed every night, each with the day its registration ends. 51,640 names are in [the list](https://unique.domains/domains/expiring) today.
+1,000 one-word domain names close to their expiry date, refreshed every night, each with the day its registration ends. 52,200 names are in [the list](https://unique.domains/domains/expiring) today.
 
 If the owner does not renew, the word comes back on that ending, once. Drop catchers and investors follow these dates every day. A name may have been renewed, so [check a name](https://unique.domains/availability) before you act on it.
 
@@ -26,7 +26,6 @@ The first 20 rows of the file, in the file's order.
 
 | domain            | status   | purchase_price | renewal_price | attractiveness | demand | length |
 | ----------------- | -------- | -------------- | ------------- | -------------- | ------ | ------ |
-| spotlight.yachts  | expiring | —              | —             | high           | high   | 9      |
 | internet.shoes    | expiring | —              | —             | high           | high   | 8      |
 | spanking.us       | expiring | —              | —             | high           | low    | 8      |
 | signature.reviews | expiring | —              | —             | high           | low    | 9      |
@@ -46,6 +45,7 @@ The first 20 rows of the file, in the file's order.
 | coins.cheap       | expiring | —              | —             | high           | low    | 5      |
 | made.uk           | expiring | —              | —             | high           | low    | 4      |
 | jacks.sh          | expiring | —              | —             | high           | low    | 5      |
+| all.coach         | expiring | —              | —             | high           | medium | 3      |
 
 ## What is in the data
 
@@ -64,7 +64,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 51,640 names in the live list today.
+- The files hold 1,000 rows of the 52,200 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
