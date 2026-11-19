@@ -24,6 +24,7 @@ a019fd3f-509f-4053-94c1-38c3ea845068,blithe.io,expiring,,,high,low,6,Dynadot Inc
 367ebb43-c5f6-4776-b16e-e77c6cf2ae82,ultimatum.io,expiring,,,high,low,9,Key-Systems GmbH,15/12/2015 08:42,15/12/2026 08:42
 be488861-d0a7-46bf-b7c9-3fc00e9ee9f6,foil.solutions,expiring,,,high,low,4,"GoDaddy.com, LLC",24/12/2016 10:38,24/12/2026 10:38
 52b110b3-8a40-48d0-b832-ed59ba34aac6,chestnut.life,expiring,,,high,low,8,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,07/12/2025 15:15,07/12/2026 15:15
+f0b447d6-271e-4256-b326-53cafc8e6ad8,dating.site,expiring,,,high,low,6,Dynadot Inc,31/12/2020 08:47,31/12/2026 23:59
 73b05047-9f9a-4b39-b109-370e36b626fd,acetate.pro,expiring,,,high,low,7,Mesh Digital Limited,09/12/2025 14:19,09/12/2026 14:19
 c8c05eac-d6cb-481c-9f49-6fce886c5fa5,leader.asia,expiring,,,high,low,6,Porkbun LLC,12/12/2019 12:09,12/12/2026 12:09
 13db7dd4-e01e-4821-af5f-f22233671030,dribble.net,expiring,,,high,low,7,"GoDaddy.com, LLC",10/12/2000 11:39,10/12/2026 11:39
@@ -32,7 +33,6 @@ c8c05eac-d6cb-481c-9f49-6fce886c5fa5,leader.asia,expiring,,,high,low,6,Porkbun L
 6eb58213-692c-4595-938f-dc27e33031db,onto.bet,expiring,,,high,low,4,Dynadot Inc,27/11/2025 10:42,27/11/2026 10:42
 283062cf-05cf-4bb4-82e4-3358d4a8f94a,vizor.cloud,expiring,,,high,medium,5,GoDaddy,30/11/2016 15:39,30/11/2026 15:39
 81e8471b-95c8-476d-8e3d-dfb35f5824fe,brave.fitness,expiring,,,high,medium,5,"Sav.com, LLC - 44",17/12/2025 15:15,17/12/2026 15:15
-620399b5-e793-415f-b5a5-5abf2993cd56,encouraged.mom,expiring,,,high,low,10,"Spaceship, Inc.",18/11/2025 21:20,18/11/2026 23:59
 9ff0b4df-dd31-4b81-be47-36043db945fb,cdc.lol,expiring,,,high,low,3,Porkbun LLC,19/12/2025 19:06,19/12/2026 23:59
 9f6c7dbf-2e7e-4f78-a672-898808b6a4ee,unmatched.fit,expiring,,,high,low,9,"GoDaddy.com, LLC",02/12/2025 08:37,02/12/2026 08:37
 aa1e3feb-61cb-4696-a5cb-fe6b3ca6f0c5,punk.ink,expiring,,,high,medium,4,Cronon GmbH,27/12/2021 21:55,27/12/2026 23:59
@@ -54,11 +54,9 @@ ae562c18-d0f2-429e-86c3-7825de8116e2,polar.photos,expiring,,,high,medium,5,"GoDa
 595b7c75-e3bf-4dca-a7ea-bb5f50235ff4,full.school,expiring,,,high,low,4,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,03/12/2025 15:15,03/12/2026 15:15
 04b60a2e-4e0f-44ba-b2fc-0b95537c5f5f,access.delivery,expiring,,,high,low,6,"GoDaddy.com, LLC",24/12/2025 17:49,24/12/2026 17:49
 10b79a9d-f584-4cb0-9d11-21a4001f5ff5,autonomous.repair,expiring,,,high,low,10,Dynadot Inc,19/12/2024 19:02,19/12/2026 19:02
-45b8851f-5888-476e-ad24-dcf171c5ad51,cyber.earth,expiring,,,high,high,5,Porkbun,19/11/2015 16:00,18/11/2026 23:59
 5fcee789-6513-4b16-86e8-ab56b1343450,jewellery.claims,expiring,,,high,low,9,"GoDaddy.com, LLC",26/12/2024 20:04,26/12/2026 20:04
 d10af639-a9f9-4d63-aec8-d7908c67d9e9,world.food,expiring,,,high,high,5,"Spaceship, Inc.",21/12/2025 14:00,21/12/2026 14:00
 08a371d7-f3e2-46ba-9aff-71a68145cf1b,critique.world,expiring,,,high,low,8,"GoDaddy.com, LLC",17/12/2025 04:25,17/12/2026 04:25
-bf17096d-8fec-4b9c-93ae-d033258ca06a,ideogram.info,expiring,,,high,medium,8,PDR Ltd. d/b/a PublicDomainRegistry.com,18/11/2010 08:51,18/11/2026 08:51
 0f3a6e24-2f99-44e6-b888-678bf2cdb368,resale.live,expiring,,,high,low,6,Squarespace Domains II LLC,11/12/2017 20:03,11/12/2026 20:03
 717e29ca-2162-4eee-aaa1-8dd551a2eb76,point.health,expiring,,,high,high,5,"GoDaddy.com, LLC",08/12/2021 16:19,08/12/2026 16:19
 f4c53ade-42f5-45f3-90ea-ec33871d01ef,events.red,expiring,,,high,low,6,"Spaceship, Inc.",29/11/2022 14:39,29/11/2026 14:39
@@ -79,6 +77,7 @@ e15c9661-ec2a-4a8f-aa28-7cd5d00090c5,skyline.city,expiring,,,high,low,7,"DNSPod,
 2083522e-fdfa-4321-8645-4cc8f067cc15,rust.holiday,expiring,,,high,medium,4,Squarespace Domains II LLC,10/12/2021 05:26,10/12/2026 05:26
 4c3e1e04-1200-4768-a6dc-9cb090805344,awareness.info,expiring,,,high,low,9,Unstoppable Domains Inc,15/12/2010 10:13,15/12/2026 10:13
 7723eb76-9151-441e-865c-c0fd8f652b3f,berry.id,expiring,,,high,low,5,PT Media Cloud Indonesia,18/12/2024 00:17,18/12/2026 23:59
+57518d66-45eb-47bb-95e7-e999c05a93ca,quickdraw.net,expiring,,,high,low,9,"TurnCommerce, Inc. DBA NameBright.com",24/11/2003 19:26,24/11/2026 19:26
 66525bf3-a77c-42db-ae76-626e6c863551,trees.today,expiring,,,high,low,5,"DNSPod, Inc.",11/12/2023 15:15,11/12/2026 15:15
 f1d01aa0-2f82-4991-9447-878c240a4a3f,tripper.deals,expiring,,,high,low,7,"Cloudflare, Inc",23/11/2022 14:02,23/11/2026 14:02
 92094292-c10e-4b7b-8113-4b619044629a,bluegrass.bet,expiring,,,high,low,9,Dynadot Inc,30/12/2025 12:59,30/12/2026 12:59
@@ -116,7 +115,6 @@ d802f7d2-b857-4b94-9e24-5326fd523994,metal.promo,expiring,,,high,low,5,IONOS SE,
 c63de38f-da5c-44db-b3c6-edcf17a8ddc9,key.news,expiring,,,high,medium,3,Dynadot Inc,27/12/2024 15:15,27/12/2026 15:15
 b8fe95ce-5ff3-4ebc-8a37-e607af495448,egg.yachts,expiring,,,high,low,3,Porkbun LLC,22/12/2024 22:21,22/12/2026 23:59
 bdfc3e50-f533-41c8-adcb-e4bd146bb049,career.academy,expiring,,,high,low,6,Porkbun LLC,20/12/2017 04:18,20/12/2026 04:18
-a0618c93-0179-41c6-bae3-e4b8819a0dfc,bombshell.biz,expiring,,,high,low,9,Key-Systems GmbH,15/11/2001 03:42,18/11/2026 23:59
 b070778e-662c-4007-83c9-3d42277306ce,snitch.co,expiring,,,high,low,6,"GoDaddy.com, LLC",26/11/2013 02:20,25/11/2026 23:59
 567ad2be-4f3b-4750-a0bd-c4f39101d6a1,mill.today,expiring,,,high,low,4,"Sav.com, LLC - 32",19/11/2025 15:15,19/11/2026 15:15
 39147322-193d-4516-9ad6-e01cf84be9f2,mantis.systems,expiring,,,high,low,6,"NameCheap, Inc.",02/12/2025 13:34,02/12/2026 13:34
@@ -132,12 +130,11 @@ fb5acb0d-336b-4481-bef4-4d0f44dc13c3,brutal.in,expiring,,,high,low,6,Suryanandan
 b95ab960-fe3d-4d7b-80ab-4e0ea07411ad,agile.business,expiring,,,high,medium,5,"Go Australia Domains, LLC",10/12/2014 16:00,10/12/2026 16:00
 ed4a4101-904f-4773-a616-a27f5032bf43,cybernetic.io,expiring,,,high,medium,10,"NameCheap, Inc.",20/12/2018 02:05,20/12/2026 02:05
 af25ac3a-c0d4-4db2-bde7-615cc56b1cb6,divine.rest,expiring,,,high,medium,6,"Spaceship, Inc.",23/11/2025 21:51,23/11/2026 21:51
-1bfed1da-3171-483c-9ddc-a88d0081a241,engagement.mom,expiring,,,high,low,10,"Spaceship, Inc.",18/11/2025 21:20,18/11/2026 23:59
 f98a32f7-737d-45dd-867c-9f0f7a32af79,builder.immo,expiring,,,high,medium,7,"Sav.com, LLC",19/12/2025 17:47,19/12/2026 17:47
 5003aeda-85aa-48d0-ba49-8dd14b53210e,awe.info,expiring,,,high,low,3,"GoDaddy.com, LLC",25/11/2022 15:15,25/11/2026 15:15
 f88e0f01-383d-4921-96af-bf5ac6b1e91b,cry.uk,expiring,,,high,low,3,Stenning Limited t/a Client Domain Management,29/12/2015 17:55,29/12/2026 17:55
 ea0852fe-9d84-46a6-bcd3-8d3a9e7c7ecd,things.tips,expiring,,,high,low,6,Tucows Domains Inc.,11/12/2014 11:12,11/12/2026 11:12
-a4d176ba-9945-4349-a3a2-44df8e882bb2,wisdom.xxx,expiring,,,high,medium,6,"CSC Corporate Domains, Inc.",06/12/2011 17:15,06/12/2026 17:15
+a4d176ba-9945-4349-a3a2-44df8e882bb2,wisdom.xxx,expiring,,,high,high,6,"CSC Corporate Domains, Inc.",06/12/2011 17:15,06/12/2026 17:15
 8b80fcb3-4852-4498-93a1-09c30acbb2b6,slim.tech,expiring,,,high,low,4,"NameCheap, Inc.",02/12/2025 06:53,02/12/2026 23:59
 e1767f51-93a6-46b4-b3c5-49c80a266905,scheme.beer,expiring,,,high,medium,6,"NameCheap, Inc.",28/12/2025 18:49,28/12/2026 18:49
 7aa6c6b2-a7ad-4b9f-bf02-59f0d143cf39,easy.markets,expiring,,,high,medium,4,Porkbun LLC,20/11/2019 12:30,20/11/2026 23:59
@@ -151,7 +148,6 @@ c5c967bb-4057-4483-9903-493eec7c1f6b,amt.cc,expiring,,,high,medium,3,InterNetX G
 b04369ec-ecda-45f3-9237-5bd53365201e,reload.bet,expiring,,,high,high,6,"GoDaddy.com, LLC",25/12/2017 10:31,25/12/2026 10:31
 96c10dcb-3f8a-438a-9fa5-34bdbce8f90f,plugin.delivery,expiring,,,high,high,6,"NameCheap, Inc.",22/12/2025 13:56,22/12/2026 13:56
 24e66867-e22c-4ff9-bee1-3f69a32a7e1b,hormones.site,expiring,,,high,low,8,Porkbun LLC,23/11/2025 15:28,23/11/2026 23:59
-9b70851a-e779-4e42-9b35-1f6c1225c65f,alone.mom,expiring,,,high,low,5,"Spaceship, Inc.",18/11/2025 21:20,18/11/2026 23:59
 0d056eae-adae-489b-9ef8-58cc0ca38303,nine.cafe,expiring,,,high,medium,4,Dynadot Inc,25/12/2025 15:46,25/12/2026 15:46
 74ad3e7d-7ad4-4661-a6aa-fccd1cb071c1,front.gay,expiring,,,high,low,5,Tucows Domains Inc.,27/11/2025 22:38,27/11/2026 22:38
 fdc91cab-66b4-40b3-b223-518d7e3e94e9,christie.llc,expiring,,,high,low,8,Squarespace Domains II LLC,18/12/2020 05:02,18/12/2026 05:02
@@ -164,7 +160,6 @@ d8bcd82f-5b93-49df-9f37-675f604f1cf2,strategy.ceo,expiring,,,high,high,8,"Name.c
 f0aba6d3-fd67-43ba-b303-1a1c52bbb60f,kit.space,expiring,,,high,medium,3,"GoDaddy.com, LLC",08/12/2025 20:27,08/12/2026 23:59
 47576852-d571-4d59-a69c-7689a0c16fef,marketplace.financial,expiring,,,high,high,11,Registrar of Domain Names REG.RU LLC,16/12/2025 14:34,16/12/2026 14:34
 8e443b32-4bfc-4954-b11f-c02e1c05abcb,lobo.org,expiring,,,high,medium,4,"GoDaddy.com, LLC",15/12/1996 05:00,14/12/2026 05:00
-e71e843d-de4b-4d8f-ad15-1baa27e99571,piety.dev,expiring,,,high,low,5,"CloudFlare, Inc.",18/12/2025 22:10,18/12/2026 22:10
 4500533d-cf29-4344-94be-526a4b8530fc,feeling.run,expiring,,,high,low,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),28/11/2024 04:06,28/11/2026 04:06
 fc899eac-d318-4ef0-a36b-a8e7dcb7e539,naturalness.xyz,expiring,,,high,low,11,Dynadot Inc,28/11/2025 15:36,28/11/2026 23:59
 883a6358-f47c-4f18-a0d6-36f305c18bc6,creator.pizza,expiring,,,high,high,7,"NameCheap, Inc.",07/12/2025 03:33,07/12/2026 03:33
@@ -215,13 +210,14 @@ dfa8d65c-30c3-413b-a3b9-cbdd760e1f64,smart.tennis,expiring,,,high,medium,5,"Name
 c10fd17b-9e53-4e7b-917c-c7b849a9aa4e,perform.education,expiring,,,high,low,7,Porkbun LLC,22/12/2020 21:03,22/12/2026 21:03
 54a66f1f-131d-4b18-8f91-1d8702bb7230,implant.cloud,expiring,,,high,low,7,GoDaddy,02/12/2017 02:56,02/12/2026 02:56
 7d0e7ed9-fb8e-4faa-8ef6-16c0f35e2f31,have.solutions,expiring,,,high,low,4,"GoDaddy.com, LLC",02/12/2024 22:01,02/12/2026 22:01
+e91772a3-34b6-4144-9d92-cb34273dfde2,breakfast.academy,expiring,,,high,medium,9,CSL Computer Service Langenbach GmbH d/b/a Joker.com,12/12/2024 08:40,12/12/2026 08:40
 dc7d312c-a7c4-41bf-9811-1370c7916f2b,operation.asia,expiring,,,high,medium,9,"NameCheap, Inc.",08/12/2025 14:33,08/12/2026 14:33
 e6e2324d-b514-4db3-bf32-1faa15cb07ab,lizard.email,expiring,,,high,medium,6,"Cloudflare, Inc",26/12/2024 15:50,26/12/2026 15:50
-1d4a85f5-54ec-4a28-9775-752b311c4ef2,industry.sex,expiring,,,high,high,8,InternetX GmbH,18/11/2021 17:01,18/11/2026 17:01
 edd13dbb-c206-482c-b6c9-3d85bca8a6a8,ritual.health,expiring,,,high,low,6,"Spaceship, Inc.",06/12/2025 00:03,06/12/2026 00:03
 5a7b5c15-f84e-4f95-9072-6ca9f9360ac8,updraft.bot,expiring,,,high,medium,7,"Spaceship, Inc.",25/11/2025 20:22,25/11/2026 20:22
 6f712043-7c68-4c56-899a-7fcd17cb867d,jazz.business,expiring,,,high,low,4,united-domains GmbH,10/12/2014 16:30,10/12/2026 16:30
 5aa0bcc9-71d8-43ae-bf3e-af278807c839,happiness.deals,expiring,,,high,medium,9,"HOSTINGER operations, UAB",23/12/2025 13:01,23/12/2026 13:01
+1253d6e7-ffb2-4ec8-aaf1-d227f2cacc19,bipa.org,expiring,,,high,low,4,"GoDaddy.com, LLC",06/12/2002 07:18,06/12/2026 07:18
 27cb259f-f50f-404c-a563-b78ec9399bdc,rdo.it,expiring,,,high,medium,3,,15/03/2000 00:00,13/12/2026 00:00
 ecaff149-8d83-4415-86dd-874f1fc63e90,shoe.vc,expiring,,,high,low,4,GrepApps Mandy Inc.,20/12/2025 01:54,20/12/2026 01:54
 12969299-91a6-434f-8cf3-ed29ff0745eb,ugly.co,expiring,,,high,low,4,"GoDaddy.com, LLC",26/12/2016 16:37,25/12/2026 23:59
@@ -234,7 +230,6 @@ fe8100cf-147f-44bf-a56f-928d44345a2c,enrich.site,expiring,,,high,low,6,West263 I
 a49ec416-eb89-47ef-ab92-c2bdb591c76f,peaceful.one,expiring,,,high,low,8,"GoDaddy.com, LLC",15/12/2020 08:16,15/12/2026 08:16
 a7116b15-d4c2-488a-9f5e-7c843b1797eb,farcical.xyz,expiring,,,high,low,8,"Amazon Registrar, Inc.",30/11/2022 10:22,30/11/2026 23:59
 64e4faa0-294a-45b0-9a78-735831bfca33,class.nexus,expiring,,,high,medium,5,"CloudFlare, Inc.",15/12/2025 03:09,15/12/2026 03:09
-a0959ee8-c024-4ebc-bbff-bf405cabaf88,combobulate.net,expiring,,,high,low,11,"Amazon Registrar, Inc.",22/12/2019 18:16,22/12/2026 18:16
 2aeaafa4-cfd8-4837-906a-928306b7a86d,each.life,expiring,,,high,low,4,"Name.com, Inc.",06/12/2014 13:42,06/12/2026 13:42
 336f089a-46d7-4b00-941b-45ce3ac83754,concrete.help,expiring,,,high,low,8,Gname.com Pte. Ltd.,24/12/2025 22:49,24/12/2026 23:59
 5862313a-4af3-47eb-bbcd-cea0bc7542d5,overtime.gmbh,expiring,,,high,low,8,InterNetX GmbH,07/12/2025 17:06,07/12/2026 17:06
@@ -282,6 +277,7 @@ e47ab5a4-e355-488f-87c3-4729c0e6a654,joseph.taxi,expiring,,,high,low,6,"NameChea
 8566468c-5add-45ea-9028-872fbe0cfe80,sinless.media,expiring,,,high,low,7,"Network Solutions, LLC",12/12/2025 22:16,12/12/2026 22:16
 e3e2b4a5-1e7d-42e3-b2b5-64c232efb483,immortal.gold,expiring,,,high,medium,8,"Xiamen ChinaSource Internet Service Co., Ltd",23/12/2021 13:15,23/12/2026 13:15
 f0cac8a1-53d2-4021-8337-5d9371c8ba75,agentic.claims,expiring,,,high,high,7,Squarespace Domains II LLC,22/12/2024 08:16,22/12/2026 08:16
+415d9f4d-e453-4190-bf1e-af0998a1650e,interior.haus,expiring,,,high,low,8,IONOS SE,30/12/2024 19:19,30/12/2026 19:19
 4a158265-25e3-497d-8bea-c96ee490417c,individual.watch,expiring,,,high,low,10,"Key-Systems, LLC",15/12/2014 11:35,15/12/2026 11:35
 1bc05636-30c3-4f7f-9ac5-9d96a3dd5179,postbox.world,expiring,,,high,low,8,"Sav.com, LLC - 34",07/12/2025 15:15,07/12/2026 15:15
 c4890132-6128-472e-b5db-4cde7e70cffd,jam.navy,expiring,,,high,low,3,"Cloudflare, Inc",23/12/2022 19:46,23/12/2026 19:46
@@ -311,6 +307,7 @@ e57e9834-1d0c-490c-a3d1-22ca26fa89dd,autograph.network,expiring,,,high,low,9,"Sa
 c8bb597f-9ec9-4d59-b7b4-c4218da34674,demonstration.berlin,expiring,,,high,medium,13,,06/12/2021 15:19,06/12/2026 15:19
 6e8a412f-5952-4375-9cd2-fde7fb768bd6,hated.com,expiring,,,high,low,5,Rabbitsfoot.com LLC d/b/a Oxygen.nyc,07/12/1999 05:13,07/12/2026 05:13
 96ae6bcc-2a7b-4097-b9ce-f350a0e0e089,broad.digital,expiring,,,high,low,5,"GoDaddy.com, LLC",07/12/2017 19:36,07/12/2026 19:36
+ad7d4851-6b71-4fa7-a817-b6f860cd1213,packmate.tv,expiring,,,high,low,8,InternetX GmbH,02/12/2013 17:28,02/12/2026 17:28
 27d36c83-0da7-4f52-85c3-f9b4dc7f675b,vid.ninja,expiring,,,high,low,3,Realtime Register B.V.,23/11/2017 22:37,23/11/2026 22:37
 0cafe8c2-094a-4542-b11b-6513be351531,consultants.training,expiring,,,high,medium,11,"GoDaddy.com, LLC",29/11/2017 22:19,29/11/2026 22:19
 f8dbbf23-d91e-4ed8-b4b3-bb6c42b5b66a,talks.onl,expiring,,,high,low,5,Dynadot Inc,15/12/2025 16:33,15/12/2026 16:33
@@ -370,8 +367,8 @@ c2d29db9-cb5c-4615-adfa-8db29d86895f,verify.click,expiring,,,high,medium,6,"Dyna
 88e48ed9-37c9-41c9-a9b0-01afd81f6970,craft.build,expiring,,,high,medium,5,united-domains GmbH,12/12/2019 09:03,12/12/2026 23:59
 44387172-7096-4b93-bd29-2e2913bae39c,sports.coffee,expiring,,,high,medium,6,"Sav.com, LLC - 7",23/12/2025 15:16,23/12/2026 15:16
 e3a8adb1-ac31-4099-b9aa-0c5c237a059e,wander.watch,expiring,,,high,medium,6,"Name.com, Inc.",25/11/2025 00:36,25/11/2026 00:36
-16a53850-3fc5-498a-acc2-05d54b12545b,shipment.live,expiring,,,high,low,8,InterNetX GmbH,18/11/2019 15:30,18/11/2026 15:30
 370d8840-e620-4753-b0c4-9c722b8fb884,energy.llc,expiring,,,high,medium,6,"GoDaddy.com, LLC",24/12/2025 14:14,24/12/2026 14:14
+8689bf2e-8cf6-49af-a53f-eafefc01f39f,launch.recipes,expiring,,,high,high,6,Porkbun LLC,28/11/2023 17:28,28/11/2026 17:28
 77fd7f26-4ac5-4074-99b2-4ef98ac80ac1,furnished.space,expiring,,,high,low,9,Squarespace Domains II LLC,03/12/2021 16:49,03/12/2026 23:59
 07ae35e9-1485-4f06-9ea7-e386a492d3c2,haste.life,expiring,,,high,low,5,"GoDaddy.com, LLC",29/12/2023 17:03,29/12/2026 17:03
 950f9815-62aa-4502-b92e-c94292c6b6e4,skincare.rocks,expiring,,,high,medium,8,"Spaceship, Inc.",24/11/2025 17:38,24/11/2026 17:38
@@ -417,7 +414,6 @@ c6bb9812-8ba2-4d79-8d86-9834920c4705,essential.world,expiring,,,high,low,9,"DNSP
 ba901eed-eadf-4d89-b8a4-c9b1c9fd08c3,coffeecake.xyz,expiring,,,high,low,10,Dynadot Inc,28/11/2025 15:21,28/11/2026 23:59
 757d0406-afb4-4aac-ad3d-218288d73ee2,mainstreet.it,expiring,,,high,low,10,,15/09/1997 00:00,07/12/2026 00:00
 e062a092-00a6-4634-8bda-7a396c77e58f,analogy.io,expiring,,,high,low,7,Key-Systems GmbH,01/12/2015 02:20,01/12/2026 02:20
-d4354f5a-488b-48ae-b646-38efe7cb2f13,libre.haus,expiring,,,high,low,5,"Cloudflare, Inc",18/11/2024 15:37,18/11/2026 15:37
 258938c1-cd91-4c01-b594-429f69628568,style.church,expiring,,,high,low,5,"Name.com, Inc.",12/12/2024 01:06,12/12/2026 01:06
 70ec68a8-2ecc-45c0-a65c-abf0f6cadebd,goats.wtf,expiring,,,medium,low,5,"eNom, LLC",17/12/2021 19:12,17/12/2026 19:12
 afaddffe-c1fd-42aa-9a1b-7accd3456312,smartly.bet,expiring,,,high,low,7,Dynadot Inc,26/12/2025 11:33,26/12/2026 11:33
@@ -433,7 +429,6 @@ d340ac00-dd92-49b2-89c1-398abe9ae28f,much.world,expiring,,,high,low,4,"Sav.com, 
 33cc88f5-357a-4e98-b20c-5b707c13e625,halfway.online,expiring,,,high,low,7,"NameCheap, Inc.",19/11/2025 07:00,19/11/2026 23:59
 d2e2926e-a5eb-46e2-9eb8-28ed4e4fa682,wheel.capital,expiring,,,high,low,5,"NameSilo, LLC",20/12/2025 15:26,20/12/2026 15:26
 ab1b2deb-2fc2-41bd-b2c9-7a234e61c237,cornerstone.world,expiring,,,high,low,11,"DNSPod, Inc.",19/11/2023 15:15,19/11/2026 15:15
-15567981-54d1-4e47-8782-e335e3b88d18,tel.ai,expiring,,,high,medium,3,"GoDaddy.com, LLC",16/12/2017 04:42,18/11/2026 04:42
 94df212d-0e06-4fbf-8f6e-05b5d4337fe2,immense.tech,expiring,,,high,low,7,Squarespace Domains LLC,06/12/2018 01:49,06/12/2026 23:59
 ed28138f-e461-4044-803c-11682b0b8325,audio.click,expiring,,,high,low,5,"Dynadot, LLC",25/11/2014 16:00,25/11/2026 16:00
 5ec02944-a8ea-420a-bdfb-ea38d93c60a3,automated.sbs,expiring,,,high,low,9,"NameCheap, Inc.",24/12/2025 15:45,24/12/2026 23:59
@@ -445,6 +440,7 @@ ece77bc6-60c6-4d56-9082-d94ed24b43a4,paranoid.world,expiring,,,high,low,8,"Sav.c
 5fd80f42-cc25-4a50-abaf-53493737430c,server.moi,expiring,,,high,high,6,Porkbun LLC,02/01/2026 09:13,02/01/2027 09:13
 22904791-67c4-4d88-945f-10403b77c05b,unstoppable.life,expiring,,,high,medium,11,"Xiamen ChinaSource Internet Service Co., Ltd",05/12/2025 15:16,05/12/2026 15:16
 f2d825bd-05ee-4bf7-b76a-f6e55ab37337,space.markets,expiring,,,high,high,5,Gandi SAS,23/12/2019 09:52,23/12/2026 23:59
+a568cb3a-8769-4221-8e1c-4340edc10e66,cot.bar,expiring,,,high,low,3,GoDaddy,01/01/2026 23:10,01/01/2027 23:10
 0091103f-b35d-495f-97be-c8f21e149496,agency.lifestyle,expiring,,,high,low,6,"Spaceship, Inc.",07/12/2025 19:40,07/12/2026 19:40
 b930c21c-91b2-45c9-b5a9-5fcc6c0445f5,inu.university,expiring,,,high,medium,3,"Key-Systems, LLC",13/12/2022 19:56,13/12/2026 19:56
 c7d808ea-a66a-4dc7-991f-bf353482cf02,semicolon.ninja,expiring,,,high,low,9,Squarespace Domains II LLC,03/12/2021 04:00,03/12/2026 04:00
@@ -464,6 +460,7 @@ ca23eb87-ae98-45d2-b328-29c4fa1095d9,give.locker,expiring,,,high,medium,4,GoDadd
 42189c86-29d0-474d-8ce7-21d795c6fc0c,connect.farm,expiring,,,high,high,7,"Global Domains International, Inc. DBA DomainCostClub.com",29/11/2022 09:54,29/11/2026 09:54
 adb337b1-0cde-4093-9202-ed5a75e25ea8,daydream.design,expiring,,,high,low,8,Squarespace Domains II LLC,09/12/2021 09:16,09/12/2026 23:59
 01c85663-689b-48ab-bb5b-7d9cc4fc7872,connect.direct,expiring,,,high,high,7,"Cloudflare, Inc",20/11/2025 03:48,20/11/2026 03:48
+254e2364-9a55-4244-9c54-ab6049960150,ordinary.id,expiring,,,high,low,8,PANDI Registrar,31/12/2023 14:50,31/12/2026 23:59
 64f51512-ddf4-448f-8137-105ee0996269,phase.money,expiring,,,high,medium,5,"Spaceship, Inc.",16/12/2025 06:56,16/12/2026 06:56
 862ce52d-c859-4b68-aa54-aacb1ae7e7f6,needs.services,expiring,,,high,low,5,Infomaniak Network SA,15/12/2017 14:36,15/12/2026 14:36
 5109c648-befc-4a08-99be-bd7ec5d56a2b,club.agency,expiring,,,high,low,4,Unstoppable Domains Inc,12/12/2022 17:05,12/12/2026 17:05
@@ -524,7 +521,6 @@ e9109b26-6509-4203-ac90-6983c20fdef2,multitude.video,expiring,,,high,low,9,"GoDa
 411f7f95-6958-4db3-a2a9-1c9630df3a0d,detour.io,expiring,,,high,low,6,"GoDaddy.com, LLC",19/12/2018 10:26,19/12/2026 10:26
 98f3a77b-5652-4640-b89c-fa6779e4aa70,pediatrics.city,expiring,,,high,low,10,Squarespace Domains II LLC,01/12/2021 18:13,01/12/2026 18:13
 f0fb4d8c-44bf-46fb-a753-612607e7ab28,imagine.news,expiring,,,high,medium,7,"Cloudflare, Inc",23/12/2025 20:44,23/12/2026 20:44
-ec16df88-87f2-4381-bac5-e61ea9521566,item.deals,expiring,,,high,medium,4,Dynadot Inc,22/11/2025 01:57,22/11/2026 01:57
 603524fc-5bd6-4e45-81da-9257b5cd1520,growth.email,expiring,,,high,high,6,"GoDaddy.com, LLC",20/12/2016 07:33,20/12/2026 07:33
 d70aceab-aa6c-4aab-8b01-8a09b7ccc82a,ideogram.it,expiring,,,high,medium,8,,20/11/2017 10:29,20/11/2026 00:00
 7e4a8f73-62a5-45f8-ad2e-e99b8048c52e,formal.store,expiring,,,high,low,6,Squarespace Domains LLC,26/11/2023 17:36,26/11/2026 23:59
@@ -573,7 +569,6 @@ ce104bbd-c6f0-4f6d-9f01-4a9231bf728c,whenever.in,expiring,,,high,low,8,Suryanand
 cb457619-6f12-4fd5-975a-48b533190260,maybe.one,expiring,,,high,medium,5,Dynadot Inc,27/11/2025 00:00,27/11/2026 00:00
 20ab9d98-08d1-4415-b2bb-407fcea14f3f,dog.group,expiring,,,high,medium,3,Unstoppable Domains Inc,27/12/2019 00:56,27/12/2026 00:56
 bfafbd23-a365-4936-ace7-cb6955dcf5e8,heard.cafe,expiring,,,high,low,5,"NameCheap, Inc.",21/11/2025 23:12,21/11/2026 23:12
-cfd32c1a-808d-4220-b333-03b4355ba292,court.team,expiring,,,high,low,5,"GoDaddy.com, LLC",19/11/2025 02:58,19/11/2026 02:58
 3cdb1d39-5b07-42d8-a373-4e13c91f1e69,independents.app,expiring,,,high,low,12,Porkbun LLC,06/12/2018 10:33,06/12/2026 10:33
 ba7ebb92-9528-4cfd-881a-cf078a2b6d0e,splendid.help,expiring,,,high,low,8,Gname.com Pte. Ltd.,20/11/2025 09:37,20/11/2026 23:59
 fe8a4df8-0126-42e8-b6cf-26711105c881,organization.me,expiring,,,high,low,12,Dynadot Inc,23/12/2017 01:06,23/12/2026 01:06
@@ -669,7 +664,6 @@ e1c4ffb5-fb0f-45a9-848d-711929d0c874,aegis.bar,expiring,,,high,medium,5,"Dynadot
 53d6b19e-c693-4c27-9ded-e79ec45b8c0d,tactics.blog,expiring,,,high,low,7,Namecheap,23/11/2025 18:49,23/11/2026 18:49
 9e5eefb8-2248-42a2-add2-b0475e13faab,aig.baby,expiring,,,high,medium,3,Dynadot Inc,14/12/2025 23:09,14/12/2026 23:59
 dd3a7d4e-3cfa-416c-a817-1ef0586a9963,bag.marketing,expiring,,,high,high,3,Dynadot Inc,19/11/2025 17:47,19/11/2026 17:47
-184892f1-eae9-43a1-ae30-b65f9e47bf1a,ethical.coffee,expiring,,,high,low,7,"Sav.com, LLC",19/11/2020 01:27,19/11/2026 01:27
 31cd617b-fbd1-4d44-b15e-de238650eac8,mix.stream,expiring,,,high,medium,3,Epik LLC,23/12/2025 17:43,23/12/2026 17:43
 df5634c8-7f4e-4c0c-88ab-2e1ba2030c02,reshipment.xyz,expiring,,,high,low,10,"Spaceship, Inc.",07/12/2025 08:23,07/12/2026 23:59
 06e0633a-eb10-4c66-a280-80a88e23fd97,engineering.win,expiring,,,high,medium,11,Porkbun,12/12/2024 12:42,12/12/2026 12:42
@@ -712,7 +706,6 @@ c5761361-3262-4780-b60d-6e9049aedb74,continuum.blue,expiring,,,high,low,9,Square
 51a0215d-8274-4b4f-b75f-791e0c35a710,garden.rocks,expiring,,,high,high,6,Dynadot Inc,23/11/2021 18:56,23/11/2026 18:56
 8d86cc21-44f6-4a5a-babb-38fe6beda8d8,maritime.health,expiring,,,high,low,8,"Spaceship, Inc.",03/12/2025 15:50,03/12/2026 15:50
 384d0df3-aec1-4d1a-9a33-9c51a3ddcd2a,mantra.marketing,expiring,,,high,low,6,Dynadot Inc,22/11/2020 14:19,22/11/2026 14:19
-a9c44127-323a-48a8-be97-d12d6c104188,action.cool,expiring,,,high,low,6,"DNSPod, Inc.",18/11/2018 14:41,18/11/2026 14:41
 ef68161b-9313-4662-9de2-ce3db9f151b0,orcs.blog,expiring,,,medium,low,4,Namecheap,23/12/2025 01:18,23/12/2026 01:18
 6d549def-6e33-4b49-b9bd-03faeae30449,dawn.chat,expiring,,,high,medium,4,"Cloudflare, Inc",26/12/2020 20:45,26/12/2026 20:45
 8f2abcde-517d-4308-97b4-daccea349b0e,turtles.travel,expiring,,,high,medium,7,"GoDaddy.com, LLC",16/12/2024 17:04,16/12/2026 17:04
@@ -729,7 +722,6 @@ a85a5955-b26c-4e26-ba75-bfa6db75bc00,remix.legal,expiring,,,high,low,5,Realtime 
 0c67d463-0718-4351-ac0d-1b2853275ae0,bonzo.world,expiring,,,high,medium,5,Squarespace Domains II LLC,27/12/2024 01:15,27/12/2026 01:15
 146b50c9-d981-45b0-aa72-3d3c8b8bc121,fever.io,expiring,,,high,low,5,"NameCheap, Inc.",21/12/2015 00:30,21/12/2026 00:30
 101fb405-080c-49d5-965c-cb8af6e232bb,deck.business,expiring,,,high,medium,4,"GoDaddy.com, LLC",27/12/2020 23:26,27/12/2026 23:26
-a6877710-0770-48bd-add2-dc20d362cb8f,folktales.io,expiring,,,high,high,9,"GoDaddy.com, LLC",18/11/2025 15:25,18/11/2026 15:25
 2fc2c17f-db35-47a5-8620-587b006277a4,truer.xyz,expiring,,,high,low,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),18/12/2025 11:09,18/12/2026 23:59
 45dd5f97-3ee2-468f-b7b5-03c3f6f45c4e,airport.promo,expiring,,,high,low,7,IONOS SE,01/12/2025 16:21,01/12/2026 16:21
 50b84700-4cdd-4331-9a3b-141357d389bb,shipper.systems,expiring,,,high,low,7,"GoDaddy.com, LLC",10/12/2025 03:05,10/12/2026 03:05
@@ -757,8 +749,8 @@ c76f4a72-887f-4847-8f26-589cdb042eba,motel.digital,expiring,,,high,low,5,"Sav.co
 5fb9ad73-15e3-4238-a3df-7b06d77e8571,crumbly.online,expiring,,,high,low,7,Dreamscape Networks International Pte Ltd,30/11/2025 10:41,30/11/2026 23:59
 bc83cb70-e713-4b26-a769-84b54a75666d,wired.monster,expiring,,,high,low,5,"NameCheap, Inc.",16/12/2025 05:03,16/12/2026 23:59
 69c92278-43de-46d0-b8de-b512516fc7f4,funds.homes,expiring,,,high,low,5,"GoDaddy.com, LLC",21/12/2024 00:58,21/12/2026 23:59
+71e7b4f8-00b2-4113-abc5-59f0f2794084,protest.id,expiring,,,high,low,7,PANDI Registrar,31/12/2023 14:50,31/12/2026 23:59
 0cab5901-fdba-4913-a48b-d05e2eb571cb,greenwood.company,expiring,,,high,low,9,"Sav.com, LLC",11/12/2025 14:58,11/12/2026 14:58
-da3c233a-e74a-4d30-8912-842d3e0ba35e,gust.computer,expiring,,,high,low,4,"NameCheap, Inc.",18/11/2024 19:34,18/11/2026 19:34
 ac2cab59-1c9a-4a1e-a260-db6211af29d2,tfl.asia,expiring,,,high,low,3,"COREhub, S.R.L.",25/11/2007 20:00,25/11/2026 20:00
 1f3ae98a-efd8-45ce-8d12-e17a6d423690,sandesh.space,expiring,,,high,medium,7,"GoDaddy.com, LLC",09/12/2025 16:45,09/12/2026 23:59
 0fcaef7e-107e-40bb-8a1c-cc2ad6cd78dd,resorts.business,expiring,,,high,low,7,1API GmbH,10/12/2014 16:17,10/12/2026 16:17
@@ -798,6 +790,7 @@ eca646b8-867a-409b-9a09-808ec9709bcc,roost.fitness,expiring,,,high,low,5,"Cloudf
 002c9e24-cddd-4865-8de5-f3ed5af752db,curiosity.ooo,expiring,,,high,medium,9,Squarespace Domains II LLC,16/12/2021 14:43,16/12/2026 23:59
 a5295b26-ff95-4ea9-b1b5-32eba3167e36,keyhole.it,expiring,,,high,low,7,,23/12/2012 17:59,28/12/2026 00:00
 b8ba4842-d812-4d2f-beef-b59729656276,decimal.it,expiring,,,high,low,7,,24/12/2011 22:13,27/12/2026 00:00
+ec3eeb9f-2029-4ff2-a9df-dbbff9f575cd,ironmaster.pro,expiring,,,high,low,10,"GoDaddy.com, LLC",12/12/2024 20:46,12/12/2026 20:46
 cb56a5db-b864-4dc7-9632-f56c74551884,branding.tel,expiring,,,high,high,8,Key-Systems GmbH,06/12/2017 15:46,06/12/2026 15:46
 7d1ea7b9-81d0-42f5-a9d4-1a93153f32e9,ebooks.network,expiring,,,high,low,6,1API GmbH,10/12/2014 16:30,10/12/2026 16:30
 9f6b3b42-86a3-4d6d-b311-37130c33f5db,play.theater,expiring,,,high,high,4,"Global Domains International, Inc. DBA DomainCostClub.com",17/12/2025 15:15,17/12/2026 15:15
@@ -828,6 +821,7 @@ ffabb814-a1ce-47ae-8f8b-8a5e03a40501,nickname.io,expiring,,,high,low,8,Dynadot I
 5979c44f-629d-4411-9983-a51235d72f5a,tiger.cx,expiring,,,high,low,5,West263 International Limited,23/12/2024 02:07,23/12/2026 02:07
 539df1db-c6f3-4e28-9007-8b0dc1f87525,add.global,expiring,,,high,low,3,"GoDaddy.com, LLC",07/12/2021 21:24,07/12/2026 21:24
 268722a3-7f60-4ef5-8119-6cba064fb358,alehouse.io,expiring,,,high,low,8,"NameCheap, Inc.",23/12/2025 16:12,23/12/2026 16:12
+793c6337-ec1f-4295-bc85-bacaab61109c,climate.land,expiring,,,high,medium,7,Edomains LLC,30/12/2025 15:15,30/12/2026 15:15
 27b52873-f0e6-4f5c-b6b1-2246b03bced1,pegging.it,expiring,,,high,low,7,,21/12/2011 01:34,21/12/2026 00:00
 3348ea7c-dc94-48a7-b175-2162e54ceccf,biofuel.io,expiring,,,high,low,7,DOCKY COMPANY,24/12/2025 15:15,24/12/2026 15:15
 781f10f4-d443-45f9-a7fb-d013338dbfd8,hospital.memorial,expiring,,,high,medium,8,"GoDaddy.com, LLC",19/11/2016 08:39,19/11/2026 08:39
@@ -848,7 +842,6 @@ cec1f79b-3e6f-406b-b838-aa27e0210a4e,universe.expert,expiring,,,high,medium,8,"K
 21c281b3-7534-4682-96de-2d8a5f60c647,smoke.money,expiring,,,high,medium,5,"GoDaddy.com, LLC",14/12/2025 07:16,14/12/2026 07:16
 2e44cc51-4cb3-44e8-912a-affbcdbe53a0,tidy.vc,expiring,,,high,low,4,Porkbun LLC,19/12/2021 22:14,19/12/2026 22:14
 b87d693e-7d88-4a07-9bf2-81e36e682e9d,millstone.now,expiring,,,high,low,9,Dynadot Inc,30/11/2025 10:35,30/11/2026 10:35
-70996495-f4ab-4f99-8f47-6cbbc43d34d2,expanse.xyz,expiring,,,high,low,7,"GoDaddy.com, LLC",18/11/2015 02:30,18/11/2026 23:59
 5b954d63-634d-4815-af25-ee42e4b45749,bps.investments,expiring,,,high,low,3,Barbero & Associates Limited,20/12/2024 15:07,20/12/2026 15:07
 33ae3d20-52dd-4143-9a29-8db4133a2fe6,superleague.click,expiring,,,high,low,11,"HOSTINGER operations, UAB",26/11/2025 23:58,26/11/2026 23:58
 10c69360-04f1-4312-8a5a-c4413edd6eca,tote.capital,expiring,,,high,low,4,"Name.com, Inc.",22/11/2025 16:24,22/11/2026 16:24
@@ -857,6 +850,7 @@ b87d693e-7d88-4a07-9bf2-81e36e682e9d,millstone.now,expiring,,,high,low,9,Dynadot
 dfb60e15-116a-47d9-8834-3f3bd99131f1,original.top,expiring,,,high,low,8,阿里云计算有限公司,22/11/2014 07:25,22/11/2026 07:25
 c7c96947-559c-40b2-b7a1-486b3210c991,lunar.support,expiring,,,high,medium,5,"Wild West Domains, LLC",30/11/2014 05:50,30/11/2026 05:50
 b872875a-4b95-41bf-9958-b281ed9f3320,camo.energy,expiring,,,high,low,4,"GoDaddy.com, LLC",18/12/2023 13:26,18/12/2026 13:26
+072022a6-8196-4be8-bc0e-1933baa5874b,sail.earth,expiring,,,high,low,4,"GoDaddy.com, LLC",01/01/2020 20:16,01/01/2027 20:16
 4817601f-65ee-4bb7-aef6-a557162905c8,qualification.co,expiring,3436.2,48.99,high,low,13,Porkbun,23/12/2014 18:07,22/12/2026 23:59
 e93c7ce1-605a-49fc-be80-de5cd350f84e,wasd.xyz,expiring,,,high,low,4,OVH sas,08/12/2015 14:44,08/12/2026 23:59
 7f76f7cf-cb9d-4f84-8c19-e9525694b4bd,asterion.tech,expiring,,,high,low,8,Squarespace Domains LLC,17/12/2024 01:34,17/12/2026 23:59
@@ -889,6 +883,7 @@ d1f68b2c-5665-446c-8d8c-f9927e0846b1,specific.wtf,expiring,,,high,low,8,"GoDaddy
 7bafc54c-da46-4abd-9c36-55c7d1fc6a27,stop.games,expiring,,,high,medium,4,"Chengdu West Dimension Digital Technology Co., Ltd.",17/12/2025 15:15,17/12/2026 15:15
 869cbd25-e680-4dae-8f7f-45a01988f1ca,waterworks.careers,expiring,,,high,low,10,"NameCheap, Inc.",07/12/2024 17:09,07/12/2026 17:09
 ebfed14e-ad14-4361-babf-3df958c4e410,marvel.io,expiring,,,high,low,6,Porkbun LLC,23/12/2012 20:42,23/12/2026 20:42
+d979f469-bb66-4f78-bf19-ffdd92649079,change.lat,expiring,,,high,medium,6,"Spaceship, Inc.",29/12/2025 17:02,29/12/2026 23:59
 eb5d6c8b-570d-48ff-9d3f-3c9d6436fa3d,nyc.rehab,expiring,,,high,low,3,GoDaddy Online Services Cayman Islands Ltd.,25/12/2014 10:53,25/12/2026 10:53
 26193e73-3c72-4fdd-8e3d-0864ad27e72e,story.city,expiring,,,high,medium,5,"DNSPod, Inc.",25/12/2023 15:15,25/12/2026 15:15
 c0369ac5-103c-4437-90c8-8c9143d48fe5,woven.chat,expiring,,,high,medium,5,Dynadot Inc,18/12/2025 17:37,18/12/2026 17:37
@@ -943,13 +938,13 @@ d517b5f8-ed58-4621-a34d-0dcfa128c952,vav.it,expiring,,,high,low,3,,29/12/2000 00
 5de06ef0-cd52-44d4-b213-a47f6783c9ff,alumina.company,expiring,,,high,low,7,Squarespace Domains II LLC,30/12/2021 16:54,30/12/2026 16:54
 b74afd98-641e-4ede-88af-fde4b59fce65,billet.store,expiring,,,high,low,6,Squarespace Domains LLC,28/11/2022 15:57,28/11/2026 23:59
 c89b271b-209f-4749-a531-a41b0b52ef5e,dataset.com,expiring,,,high,medium,7,"GoDaddy.com, LLC",23/12/1995 05:00,22/12/2026 05:00
-6bb5e44a-7515-4e52-8fcc-cc4d41fd48f4,stupid.tax,expiring,,,high,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",19/11/2025 15:15,19/11/2026 15:15
 06556b7f-216d-47e4-81f9-31f9b8493408,advert.sale,expiring,,,high,low,6,"DNSPod, Inc.",26/12/2023 15:15,26/12/2026 15:15
 5e22ba60-4b46-4f0b-91d1-2fc5fbfca1b6,certainly.org,expiring,,,high,low,9,Dynadot1 LLC,27/12/2018 14:30,27/12/2026 14:30
 aa5cffb1-3d1c-44f7-8f03-8f592a84b5d3,caduceus.info,expiring,,,high,medium,8,Dreamscape Networks International Pte Ltd,04/12/2001 11:03,04/12/2026 11:03
 a89f8095-41df-4d5f-b434-0d9c181bac91,backstretch.dev,expiring,,,high,low,11,Tucows Domains Inc,22/11/2023 13:47,22/11/2026 13:47
 70e2dcb2-d8a8-4191-9a37-7a6cb920ed60,onion.wtf,expiring,,,high,low,5,"Sav.com, LLC - 22",22/12/2025 15:15,22/12/2026 15:15
 c9f12985-d910-4004-8b44-5e083ed3b23c,sisters.llc,expiring,,,high,low,7,Squarespace Domains II LLC,05/12/2022 14:02,05/12/2026 14:02
+b8e81c7d-3489-4e32-8b53-465c59cbce50,polygon.gold,expiring,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",30/12/2023 15:15,30/12/2026 15:15
 75d6a1c7-fb6e-4e52-87da-89c00ed46c4e,damages.co,expiring,,,high,low,7,"Spaceship, Inc.",14/12/2015 18:01,13/12/2026 23:59
 c5e0281b-45b3-4b8c-8673-feef31d2d16f,sonnet.city,expiring,,,high,low,6,"Cloudflare, Inc",30/12/2025 14:22,30/12/2026 14:22
 779e4f00-e3ba-43c3-aef4-bdc8b4cde4f6,boot.support,expiring,,,high,low,4,Synergy Wholesale Accreditations Pty Ltd,11/12/2025 12:02,11/12/2026 12:02
@@ -963,6 +958,7 @@ e8c9d198-cf30-4c47-981b-053b045373a3,ecological.global,expiring,,,high,low,10,"G
 19207c65-dfda-48cf-80f6-651fb6786540,techniques.info,expiring,,,high,low,10,"GoDaddy.com, LLC",01/12/2012 10:14,01/12/2026 10:14
 358bf4f1-29f3-4038-844d-62d972696ae4,controls.info,expiring,,,high,low,8,Dynadot Inc,24/11/2003 05:30,24/11/2026 05:30
 84075284-8502-469e-ab02-21ff0d01eb31,alpha.broker,expiring,,,high,medium,5,"NameCheap, Inc.",23/11/2024 08:41,23/11/2026 08:41
+916b9963-e8da-42a2-a8f9-23cf23861f5f,remarket.ca,expiring,,,high,medium,8,"Wild West Domains Canada, Inc.",25/11/2000 00:05,01/12/2026 05:00
 71764ca8-adb6-4d06-81f2-359099c72f9d,client.xyz,expiring,,,high,high,6,"GoDaddy.com, LLC",02/12/2014 14:00,02/12/2026 23:59
 12c3d637-ea22-4119-837c-5c52b64c5c51,hurt.pro,expiring,,,high,low,4,Dynadot Inc,14/12/2023 17:00,14/12/2026 17:00
 0a6ebbdb-d122-4ab9-84cc-0021cd779666,agile.pizza,expiring,,,high,medium,5,"Spaceship, Inc.",19/11/2025 07:36,19/11/2026 07:36
@@ -999,3 +995,7 @@ b4bca6ce-cbb4-4a2d-8b04-b6779e4fec55,disabled.email,expiring,,,high,low,8,Porkbu
 9d1bba16-78ad-43c9-b3e7-3717caaf19da,options.technology,expiring,,,high,medium,7,"eNom, LLC",21/12/2015 13:33,21/12/2026 13:33
 7d4fd8fa-a1cd-4f98-966c-7e31d2d7f20d,passbook.org,expiring,,,high,low,8,Dynadot Inc,26/12/2011 14:31,26/12/2026 14:31
 81d76d09-a557-4b95-a8f8-c8b502169a0b,staccato.io,expiring,,,high,low,8,Dynadot Inc,26/12/2021 17:00,26/12/2026 17:00
+182fa4f3-8635-45aa-8962-f4c780efc17f,kinematics.co,expiring,,,high,low,10,Key-Systems GmbH,21/12/2020 03:27,21/12/2026 23:59
+e981d624-f6e9-41f5-8899-28908fe998e5,birdie.place,expiring,,,high,low,6,"NameCheap, Inc.",17/12/2024 12:33,17/12/2026 12:33
+2237b6e6-2323-4180-9ba7-d4d39e49fb17,dita.xyz,expiring,,,high,low,4,"Spaceship, Inc.",24/11/2021 01:49,24/11/2026 23:59
+96f6954c-8ab2-4b09-b558-5bdd0d3e2862,select.red,expiring,,,high,medium,6,"GoDaddy.com, LLC",10/12/2025 01:11,10/12/2026 01:11

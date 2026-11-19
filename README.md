@@ -1,6 +1,6 @@
-# Expiring One-Word Domains (52,200)
+# Expiring One-Word Domains (52,494)
 
-1,000 one-word domain names close to their expiry date, refreshed every night, each with the day its registration ends. 52,200 names are in [the list](https://unique.domains/domains/expiring) today.
+1,000 one-word domain names close to their expiry date, refreshed every night, each with the day its registration ends. 52,494 names are in [the list](https://unique.domains/domains/expiring) today.
 
 If the owner does not renew, the word comes back on that ending, once. Drop catchers and investors follow these dates every day. A name may have been renewed, so [check a name](https://unique.domains/availability) before you act on it.
 
@@ -64,7 +64,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 52,200 names in the live list today.
+- The files hold 1,000 rows of the 52,494 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
