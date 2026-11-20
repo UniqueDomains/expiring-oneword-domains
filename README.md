@@ -43,9 +43,9 @@ The first 20 rows of the file, in the file's order.
 | arcus.gay         | expiring | —              | —             | high           | low    | 5      |
 | ferrous.beer      | expiring | —              | —             | high           | low    | 7      |
 | coins.cheap       | expiring | —              | —             | high           | low    | 5      |
+| them.earth        | expiring | —              | —             | high           | low    | 4      |
 | made.uk           | expiring | —              | —             | high           | low    | 4      |
 | jacks.sh          | expiring | —              | —             | high           | low    | 5      |
-| all.coach         | expiring | —              | —             | high           | medium | 3      |
 
 ## What is in the data
 
