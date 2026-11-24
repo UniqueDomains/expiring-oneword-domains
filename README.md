@@ -1,8 +1,8 @@
-# Expiring One-Word Domains (53,434)
+# Expiring One-Word Domains (54,050)
 
 **Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=top_home).
 
-1,000 one-word domain names close to their expiry date, refreshed every night, each with the day its registration ends. 53,434 names are in [the list](https://unique.domains/domains/expiring) today.
+1,000 one-word domain names close to their expiry date, refreshed every night, each with the day its registration ends. 54,050 names are in [the list](https://unique.domains/domains/expiring) today.
 
 If the owner does not renew, the word comes back on that ending, once. Drop catchers and investors follow these dates every day. A name may have been renewed, so [check a name](https://unique.domains/availability) before you act on it.
 
@@ -21,6 +21,8 @@ import pandas as pd
 df = pd.read_csv("https://raw.githubusercontent.com/UniqueDomains/expiring-oneword-domains/main/expiring.csv")
 print(df.head())
 ```
+
+Also on [Kaggle](https://www.kaggle.com/datasets/uniquedomains/expiring-one-word-domains).
 
 ## Sample rows
 
@@ -66,7 +68,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 53,434 names in the live list today.
+- The files hold 1,000 rows of the 54,050 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
