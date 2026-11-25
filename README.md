@@ -1,8 +1,8 @@
-# Expiring One-Word Domains (54,050)
+# Expiring One-Word Domains (54,203)
 
 **Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=top_home).
 
-1,000 one-word domain names close to their expiry date, refreshed every night, each with the day its registration ends. 54,050 names are in [the list](https://unique.domains/domains/expiring) today.
+1,000 one-word domain names close to their expiry date, refreshed every night, each with the day its registration ends. 54,203 names are in [the list](https://unique.domains/domains/expiring) today.
 
 If the owner does not renew, the word comes back on that ending, once. Drop catchers and investors follow these dates every day. A name may have been renewed, so [check a name](https://unique.domains/availability) before you act on it.
 
@@ -68,7 +68,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 54,050 names in the live list today.
+- The files hold 1,000 rows of the 54,203 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
@@ -110,6 +110,6 @@ Every ending Unique.domains tracks: [unique.domains/tld](https://unique.domains/
 
 [Unique.domains](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=about) tracks one-word domain names across the endings people build on: which are free to register, what they cost to hold and what names of each ending sell for. The datasets in this organization are its public extracts.
 
-From code: the [Node.js SDK and CLI](https://github.com/UniqueDomains/nodejs) (`npm install @uniquedomains/sdk`), the [Python client](https://github.com/UniqueDomains/python) (`pip install uniquedomains`) and the [MCP server](https://github.com/UniqueDomains/mcp-server) for AI assistants, hosted at `https://mcp.unique.domains/mcp`.
+From code: the [Node.js SDK and CLI](https://github.com/UniqueDomains/nodejs) (`npm install domain-name-api`), the [Python client](https://github.com/UniqueDomains/python) (`pip install uniquedomains`) and the [MCP server](https://github.com/UniqueDomains/mcp-server) for AI assistants, hosted at `https://mcp.unique.domains/mcp`.
 
 Questions and corrections: `kai@unique.domains`
