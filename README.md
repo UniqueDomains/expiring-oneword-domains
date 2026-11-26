@@ -1,8 +1,8 @@
-# Expiring One-Word Domains (54,203)
+# Expiring One-Word Domains (54,399)
 
 **Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=top_home).
 
-1,000 one-word domain names close to their expiry date, refreshed every night, each with the day its registration ends. 54,203 names are in [the list](https://unique.domains/domains/expiring) today.
+1,000 one-word domain names close to their expiry date, refreshed every night, each with the day its registration ends. 54,399 names are in [the list](https://unique.domains/domains/expiring) today.
 
 If the owner does not renew, the word comes back on that ending, once. Drop catchers and investors follow these dates every day. A name may have been renewed, so [check a name](https://unique.domains/availability) before you act on it.
 
@@ -38,7 +38,6 @@ The first 20 rows of the file, in the file's order.
 | onto.email        | expiring | —              | —             | high           | low    | 4      |
 | shipped.co        | expiring | —              | —             | high           | low    | 7      |
 | rich.ca           | expiring | —              | —             | high           | high   | 4      |
-| sobremesa.us      | expiring | —              | —             | high           | medium | 9      |
 | phr.homes         | expiring | —              | —             | high           | low    | 3      |
 | mode.discount     | expiring | —              | —             | high           | low    | 4      |
 | shiny.partners    | expiring | —              | —             | high           | medium | 5      |
@@ -50,6 +49,7 @@ The first 20 rows of the file, in the file's order.
 | them.earth        | expiring | —              | —             | high           | low    | 4      |
 | made.uk           | expiring | —              | —             | high           | low    | 4      |
 | jacks.sh          | expiring | —              | —             | high           | low    | 5      |
+| blithe.io         | expiring | —              | —             | high           | low    | 6      |
 
 ## What is in the data
 
@@ -68,7 +68,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 54,203 names in the live list today.
+- The files hold 1,000 rows of the 54,399 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
@@ -97,6 +97,23 @@ One-word domains by ending:
 - [.app](https://github.com/UniqueDomains/app-oneword-domains), [page](https://unique.domains/tld/app?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_tld_page)
 - [.co](https://github.com/UniqueDomains/co-oneword-domains), [page](https://unique.domains/tld/co?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_tld_page)
 - [.xyz](https://github.com/UniqueDomains/xyz-oneword-domains), [page](https://unique.domains/tld/xyz?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_tld_page)
+- [.ca](https://github.com/UniqueDomains/ca-oneword-domains), [page](https://unique.domains/tld/ca?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_tld_page)
+- [.cc](https://github.com/UniqueDomains/cc-oneword-domains), [page](https://unique.domains/tld/cc?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_tld_page)
+- [.dev](https://github.com/UniqueDomains/dev-oneword-domains), [page](https://unique.domains/tld/dev?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_tld_page)
+- [.eu](https://github.com/UniqueDomains/eu-oneword-domains), [page](https://unique.domains/tld/eu?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_tld_page)
+- [.gg](https://github.com/UniqueDomains/gg-oneword-domains), [page](https://unique.domains/tld/gg?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_tld_page)
+- [.info](https://github.com/UniqueDomains/info-oneword-domains), [page](https://unique.domains/tld/info?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_tld_page)
+- [.me](https://github.com/UniqueDomains/me-oneword-domains), [page](https://unique.domains/tld/me?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_tld_page)
+- [.net](https://github.com/UniqueDomains/net-oneword-domains), [page](https://unique.domains/tld/net?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_tld_page)
+- [.nl](https://github.com/UniqueDomains/nl-oneword-domains), [page](https://unique.domains/tld/nl?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_tld_page)
+- [.now](https://github.com/UniqueDomains/now-oneword-domains), [page](https://unique.domains/tld/now?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_tld_page)
+- [.org](https://github.com/UniqueDomains/org-oneword-domains), [page](https://unique.domains/tld/org?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_tld_page)
+- [.sh](https://github.com/UniqueDomains/sh-oneword-domains), [page](https://unique.domains/tld/sh?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_tld_page)
+- [.to](https://github.com/UniqueDomains/to-oneword-domains), [page](https://unique.domains/tld/to?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_tld_page)
+- [.tv](https://github.com/UniqueDomains/tv-oneword-domains), [page](https://unique.domains/tld/tv?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_tld_page)
+- [.uk](https://github.com/UniqueDomains/uk-oneword-domains), [page](https://unique.domains/tld/uk?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_tld_page)
+- [.us](https://github.com/UniqueDomains/us-oneword-domains), [page](https://unique.domains/tld/us?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_tld_page)
+- [.vc](https://github.com/UniqueDomains/vc-oneword-domains), [page](https://unique.domains/tld/vc?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=related_tld_page)
 
 Lists:
 
