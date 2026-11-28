@@ -1,8 +1,8 @@
-# Expiring One-Word Domains (54,754)
+# Expiring One-Word Domains (55,095)
 
 **Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=top_home).
 
-1,000 one-word domain names close to their expiry date, refreshed every night, each with the day its registration ends. 54,754 names are in [the list](https://unique.domains/domains/expiring) today.
+1,000 one-word domain names close to their expiry date, refreshed every night, each with the day its registration ends. 55,095 names are in [the list](https://unique.domains/domains/expiring) today.
 
 If the owner does not renew, the word comes back on that ending, once. Drop catchers and investors follow these dates every day. A name may have been renewed, so [check a name](https://unique.domains/availability) before you act on it.
 
@@ -30,6 +30,7 @@ The first 20 rows of the file, in the file's order.
 
 | domain            | status   | purchase_price | renewal_price | attractiveness | demand | length |
 | ----------------- | -------- | -------------- | ------------- | -------------- | ------ | ------ |
+| earthworms.cloud  | expiring | —              | —             | medium         | low    | 10     |
 | internet.shoes    | expiring | —              | —             | high           | high   | 8      |
 | spanking.us       | expiring | —              | —             | high           | low    | 8      |
 | signature.reviews | expiring | —              | —             | high           | low    | 9      |
@@ -37,7 +38,7 @@ The first 20 rows of the file, in the file's order.
 | synthetic.care    | expiring | —              | —             | high           | low    | 9      |
 | onto.email        | expiring | —              | —             | high           | low    | 4      |
 | shipped.co        | expiring | —              | —             | high           | low    | 7      |
-| rich.ca           | expiring | —              | —             | high           | high   | 4      |
+| rich.ca           | expiring | —              | —             | high           | medium | 4      |
 | phr.homes         | expiring | —              | —             | high           | low    | 3      |
 | mode.discount     | expiring | —              | —             | high           | low    | 4      |
 | shiny.partners    | expiring | —              | —             | high           | medium | 5      |
@@ -49,7 +50,6 @@ The first 20 rows of the file, in the file's order.
 | them.earth        | expiring | —              | —             | high           | low    | 4      |
 | made.uk           | expiring | —              | —             | high           | low    | 4      |
 | jacks.sh          | expiring | —              | —             | high           | low    | 5      |
-| blithe.io         | expiring | —              | —             | high           | low    | 6      |
 
 ## What is in the data
 
@@ -68,7 +68,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 54,754 names in the live list today.
+- The files hold 1,000 rows of the 55,095 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
